@@ -10,6 +10,24 @@
 ----------------*/
 var gameConfig = require('./GameConfig');
 
+//variables
+var SatoshiMultiplier = 100;
+var cooledDown = false;
+var baseSatoshi = initialBet * SatoshiMultiplier;
+var maxBetSatoshi = maxBet * SatoshiMultiplier;
+var currLoss = 0;
+var currentGameID = -1;
+var playedGames = 0;
+var profit = 0;
+var initialBalance = 0;
+var currentBet = 0;
+var startTime = new Date().getTime();
+var timeRunning = 0;
+var currentTime;
+var highestBalance = 0;
+
+currentbet = baseSatoshi;
+
 //welcome statement
 console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 
