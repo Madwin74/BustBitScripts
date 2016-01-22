@@ -2,8 +2,27 @@
 -----------------*/
 
 
-/* TEMP. VARS
+/* SETTINGS
 -----------------*/
+
+//Settings
+var targetMultiplier = 3.84; //recomended 1.17
+var initialBet = 100; //in bits
+var maxBet = 100000000; //max Bet in Bits
+var resetBet = false; //true: if max bet is reached bet will be reset to initial bet, false: continue with maxBet
+var stopMaxBet = false; //true: stop if maxBet is reached, false: continue with processing
+
+var stopLowBalance = true; //true: stop if balance is not enough for currentBet, false: continue with intial bet if possible
+
+
+
+var targetProfit = 100; //in bits; don't be too greedy
+
+var enableLossStreakProtection = false; // enable LossStreak Protection
+var maxLossStreak = 3; //if Loss Streak Protection is enabled; maximum lose streak before pausing the bot for x games
+
+var multiplyBet = false; // if set to true each winning stake is multiplied by betMultiplier
+var betMultiplier = 2; //only used when multilyBet is true
 
 
 /* INITIALIZATION
