@@ -8,6 +8,7 @@
 
 /* INITIALIZATION
 ----------------*/
+var gameConfig = require('./GameConfig');
 
 //welcome statement
 console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
@@ -37,8 +38,11 @@ function MeroBot(){
 
 console.log("start");
 
+
+
 module.exports.merobot = new MeroBot();
 
+console.log("end");
 
 /*EVENTS 
 -------------------*/
