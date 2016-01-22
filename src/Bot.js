@@ -6,8 +6,33 @@
 -----------------*/
 
 
-/* EVENTS
+/* INITIALIZATION
 -----------------*/
+
+//variables --- DO NOT CHANGE SOMETHING BELOW! -----
+var SatoshiMultiplier = 100;
+var cooledDown = false;
+var baseSatoshi = initialBet * SatoshiMultiplier;
+var maxBetSatoshi = maxBet * SatoshiMultiplier;
+var currLoss = 0;
+var currentGameID = -1;
+var playedGames = 0;
+var profit = 0;
+var initialBalance = engine.getBalance();
+var currentBet = 0;
+var startTime = new Date().getTime();
+var timeRunning = 0;
+var currentTime;
+var highestBalance = 0;
+
+//Initialization
+
+console.log('[Bot] ====== Peacem4ker\'s BustaBit Script ======[Bot]');
+console.log('[Bot] My username is: ' + engine.getUsername());
+console.log('[Bot] My starting balance: ' + (engine.getBalance() / SatoshiMultiplier).toFixed(2) + ' bits');
+
+currentBet = baseSatoshi;
+highestBalance = engine.getBalance();
 
 
 /* BOT
