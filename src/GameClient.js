@@ -73,6 +73,21 @@ Client.prototype.onGameStarting = function(data) {
   this.emit('game_starting', data);
 };
 
+Client.prototype.onCashedOut = function(data) {
+  /* Example:
+       { "username":"Steve",
+         "stopped_at":2097
+       }
+  */
+
+  if (config.USER === data.username) {
+    this.emit('cashed_out', data);
+    this.emit('user_cashed_out', data);
+  } else {
+    this.emit('cashed_out', data);
+  }
+};
+
 
 
 // Get a one time token from the server to join the game.
