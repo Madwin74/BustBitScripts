@@ -34,6 +34,9 @@ function MeroBot(){
     //register functions on Events game_starting & player_cashed_out
     
 }
+
+console.log("start");
+
 module.exports.merobot = new MeroBot();
 
 
