@@ -42,7 +42,8 @@ GameClient.prototype.onConnect = function(data) {
     var self = this,
         ott = getOtt(self.config);
 
-    var info = ott ? { ott: "" + ott } : {};
+    var info = ott ? { ott: "" + ott } : {};o
+    console.log(JSON.stringify(ott));
     self.socket.emit('join', info, function(err, data) {
         if (err)
             console.error('[ERROR] onConnect:', err);
@@ -57,7 +58,7 @@ GameClient.prototype.onDisconnect = function(data) {
 };
 
 GameClient.prototype.onJoin = function(data) {
-
+console.log(JSON.stringify(data));
   this.emit('join', data);
 };
 
@@ -72,7 +73,6 @@ GameClient.prototype.onGameStarting = function(data) {
          "time_till_start":5000
        }
   */
-  console.log('game starting...');
   this.emit('game_starting', data);
 };
 
