@@ -62,7 +62,7 @@ GameClient.prototype.onGameCrash = function(data) {
     this.emit('game_crash', data);
 };
 
-Client.prototype.onGameStarting = function(data) {
+GameClient.prototype.onGameStarting = function(data) {
   /* Example:
        { "game_id":1000020,
          "max_win":150000000,
@@ -73,7 +73,7 @@ Client.prototype.onGameStarting = function(data) {
   this.emit('game_starting', data);
 };
 
-Client.prototype.onCashedOut = function(data) {
+GameClient.prototype.onCashedOut = function(data) {
   /* Example:
        { "username":"Steve",
          "stopped_at":2097
