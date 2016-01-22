@@ -57,7 +57,8 @@ GameClient.prototype.onDisconnect = function(data) {
 };
 
 GameClient.prototype.onJoin = function(data) {
-    
+
+  console.log(JSON.stringify(data));
   this.emit('join', data);
 };
 
