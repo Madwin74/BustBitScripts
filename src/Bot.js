@@ -9,6 +9,9 @@
 /* INITIALIZATION
 ----------------*/
 
+//welcome statement
+console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
+
 
 /* BOT
 -----------------*/
