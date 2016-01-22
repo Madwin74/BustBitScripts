@@ -1,8 +1,8 @@
 {
     "name": "MeroBot",
     "version": "1.0.0",
-    "description": "A Bustabit chat bot.",
-    "author": "merowinger92 <makro9267@gmail.com> ",
+    "description": "A Bustabit gaming bot",
+    "author": "Merowinger <> ",
     "dependencies": {
         "co": "~4.6.0",
         "co-request": "~1.0.0",
@@ -19,7 +19,7 @@
         "npm": ">= 1.0.0"
     },
     "scripts": {
-        "start": "node src/Bot.js"
+        "start": "node src/bot.js"
     },
-    "main": "src/Bot.js"
+    "main": "src/bot.js"
 }
