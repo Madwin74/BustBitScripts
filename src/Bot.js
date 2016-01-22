@@ -55,9 +55,6 @@ function MeroBot(){
     
     //register functions on Events game_starting & player_cashed_out
     
-    
-    });
-    
 }
 module.exports.merobot = new MeroBot();
 
