@@ -66,7 +66,7 @@ console.log("start");
 
 module.exports.merobot = new MeroBot();
 
-consle.log(initialBalance);
+console.log(initialBalance);
 
 /*EVENTS 
 -------------------*/
