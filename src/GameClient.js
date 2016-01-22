@@ -80,7 +80,7 @@ GameClient.prototype.onCashedOut = function(data) {
        }
   */
 
-  if (config.USER === data.username) {
+  if (self.config.USER === data.username) {
     this.emit('cashed_out', data);
     this.emit('user_cashed_out', data);
   } else {
