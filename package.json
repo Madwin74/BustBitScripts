@@ -19,7 +19,7 @@
         "npm": ">= 1.0.0"
     },
     "scripts": {
-        "start": "node src/bot.js"
+        "start": "node src/Bot.js"
     },
-    "main": "src/bot.js"
+    "main": "src/Bot.js"
 }
