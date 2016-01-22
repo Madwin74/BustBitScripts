@@ -98,6 +98,7 @@ GameClient.prototype.onCashedOut = function(data) {
 function getOtt(config) {
     if (!config.SESSION) return null;
 
+    console.log(config.SESSION);
     var cookie = request.cookie('id=' + config.SESSION),
         url    = config.WEBSERVER + '/ott',
         jar    = request.jar();
