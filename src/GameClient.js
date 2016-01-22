@@ -1,12 +1,6 @@
 'use strict';
 
 
-//#
-const _            =  require('lodash');
-const SocketIO     =  require('socket.io-client');
-
-//#
-
 var EventEmitter =  require('events').EventEmitter,
     inherits     =  require('util').inherits,
     co           =  require('co'),
@@ -63,58 +57,7 @@ GameClient.prototype.onDisconnect = function(data) {
 };
 
 GameClient.prototype.onJoin = function(data) {
-  let created = data.created = new Date(data.created).getTime();
-  _.forEach(data.table_history, function(game) {
-    game.created = new Date(game.created).getTime();
-    game.startTime = game.created + 5000; // TODO: move this constant
-  });
-  // TODO: is this also valid for ENDED?
-  let startTime = Date.now() - data.elapsed;
-
-  let copy =
-    { state:        data.state,
-      game_id:      data.game_id,
-      created:      created,
-      last_hash:    data.last_hash,
-      elapsed:      data.elapsed,
-      username:     data.username,
-      balance:      data.balance_satoshis
-    };
-
-  debug('Resetting client state\n%s', JSON.stringify(copy, null, ' '));
-
-  this.lastServerSeed = data.last_hash;
-  this.game =
-    { id:              data.game_id,
-      serverSeedHash:  data.last_hash,
-      created:         created,
-      startTime:       startTime,
-      players:         data.player_info,
-      state:           data.state,
-      // Valid after crashed
-      crashpoint:      null,
-      serverSeed:      null,
-      forced:          null
-    };
-
-  for (let i = 0; i < data.joined.length; ++i)
-    this.game.players[data.joined[i]] = {};
-
-  let players = data.player_info;
-
-  this.balance  = data.balance_satoshis;
-  this.username = data.username;
-
-  // Retrieve user state from player info
-  if (!players[this.username])
-    this.userState = 'WATCHING';
-  else if (players[this.username].stopped_at)
-    this.userState = 'CASHEDOUT';
-  else if(data.state === 'ENDED')
-    this.userState = 'CRASHED';
-  else
-    this.userState = 'PLAYING';
-
+    
   this.emit('join', data);
 };
 
