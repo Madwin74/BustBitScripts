@@ -43,7 +43,7 @@ GameClient.prototype.onConnect = function(data) {
         ott = getOtt(self.config);
 
     var info = ott ? { ott: "" + ott } : {};
-    console.log(JSON.stringify(ott));
+    console.log("ott:" + JSON.stringify(ott));
     self.socket.emit('join', info, function(err, data) {
         if (err)
             console.error('[ERROR] onConnect:', err);
@@ -105,6 +105,6 @@ function getOtt(config) {
     jar.setCookie(cookie, url);
 
     var res = request.post({url:url, jar:jar});
-    console.log(res.body);
+    console.log("response:" + res.body);
     return res.body;
 }
