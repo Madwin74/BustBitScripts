@@ -19,7 +19,9 @@ function GameClient(config) {
     this.socket.on('disconnect', this.onDisconnect.bind(this));
     this.socket.on('game_crash', this.onGameCrash.bind(this));
 
-    //this.socket.on('join', this.onJoin.bind(this));
+    //add game_starting, cashed_out
+    this.socket.on('game_starting', this.onGameStarting.bind(this));
+    this.socket.on('cashed_out', this.onCashedOut.bind(this));
 }
 
 inherits(GameClient, EventEmitter);
@@ -59,6 +61,19 @@ GameClient.prototype.onJoin = function(data) {
 GameClient.prototype.onGameCrash = function(data) {
     this.emit('game_crash', data);
 };
+
+Client.prototype.onGameStarting = function(data) {
+  /* Example:
+       { "game_id":1000020,
+         "max_win":150000000,
+         "time_till_start":5000
+       }
+  */
+  console.log('game starting...');
+  this.emit('game_starting', data);
+};
+
+
 
 // Get a one time token from the server to join the game.
 function getOtt(config) {
