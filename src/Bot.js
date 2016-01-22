@@ -18,7 +18,7 @@ console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 function MeroBot(){
     var self = this
     self.Config = require('./Config');
-    console.log(JSON.stringify(self.Config)); // uncomment to see your configs
+    //console.log(JSON.stringify(self.Config)); // uncomment to see your configs
     var GameClient = require('./GameClient'),
         WebClient = require('./WebClient');
     
