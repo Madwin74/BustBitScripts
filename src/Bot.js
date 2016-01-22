@@ -27,7 +27,7 @@ var highestBalance = 0;
 
 //Initialization
 
-console.log('[Bot] ====== Peacem4ker\'s BustaBit Script ======[Bot]');
+console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 console.log('[Bot] My username is: ' + engine.getUsername());
 console.log('[Bot] My starting balance: ' + (engine.getBalance() / SatoshiMultiplier).toFixed(2) + ' bits');
 
