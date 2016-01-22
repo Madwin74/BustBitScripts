@@ -60,8 +60,6 @@ console.log("start");
 
 module.exports.merobot = new MeroBot();
 
-console.log("end");
-
 /*EVENTS 
 -------------------*/
 
