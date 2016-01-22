@@ -1,5 +1,16 @@
 'use strict';
 
+
+//#
+const _            =  require('lodash');
+const EventEmitter =  require('events').EventEmitter;
+const inherits     =  require('util').inherits;
+const co           =  require('co');
+const request      =  require('co-request');
+const SocketIO     =  require('socket.io-client');
+
+//#
+
 var EventEmitter =  require('events').EventEmitter,
     inherits     =  require('util').inherits,
     co           =  require('co'),
