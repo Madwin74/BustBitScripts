@@ -52,15 +52,17 @@ function MeroBot(){
     
     //get initial Balance
     self.gameClient.on('join', function(data) {
-        consol.log("joined");
+        console.log("joined");
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
+        console.log(initialBalance);
     });
     
     self.gameClient.on('connect', function(data) {
-        consol.log("connected");
+        console.log("connected");
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
+        console.log(initialBalance);
     });
     
     
@@ -74,7 +76,6 @@ console.log("start");
 
 module.exports.merobot = new MeroBot();
 
-console.log(initialBalance);
 
 /*EVENTS 
 -------------------*/
