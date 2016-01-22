@@ -18,6 +18,7 @@ function GameClient(config) {
     this.socket.on('connect', this.onConnect.bind(this));
     this.socket.on('disconnect', this.onDisconnect.bind(this));
     this.socket.on('game_crash', this.onGameCrash.bind(this));
+    this.socket.on('join', this.onJoin.bind(this));
 
     //add game_starting, cashed_out
     this.socket.on('game_starting', this.onGameStarting.bind(this));
