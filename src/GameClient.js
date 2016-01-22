@@ -79,6 +79,7 @@ GameClient.prototype.onCashedOut = function(data) {
          "stopped_at":2097
        }
   */
+  var self = this;
 
   if (self.config.USER === data.username) {
     this.emit('cashed_out', data);
