@@ -28,7 +28,7 @@ var highestBalance = 0;
 var currentBalance = 0;
 var betMultiplier = 100;
 
-currentbet = baseSatoshi;
+currentBet = baseSatoshi;
 
 //welcome statement
 console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
