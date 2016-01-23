@@ -1,6 +1,6 @@
 'use strict';
 
-
+var http = require('http');
 var EventEmitter =  require('events').EventEmitter,
     inherits     =  require('util').inherits,
     co           =  require('co'),
