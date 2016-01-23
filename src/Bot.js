@@ -95,6 +95,8 @@ function MeroBot(){
 		    	//currentBalance = currentBalance + Einsatz + gewinn + Bonus;
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
+		    
+		    console.log("Session Profit in bits: " + (currentBalance - initialBalance)/SatoshiMultiplier);
 		}
     });
     
