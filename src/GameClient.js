@@ -41,7 +41,7 @@ GameClient.prototype.onConnect = function(data) {
 
     var self = this;
     var cookie = request.cookie('id=' + self.config.SESSION),
-        url    = config.WEBSERVER + '/ott',
+        url    = self.config.WEBSERVER + '/ott',
         jar    = request.jar();
 
     jar.setCookie(cookie, url);
