@@ -57,7 +57,7 @@ function MeroBot(){
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
         currentBalance = initialBalance;
-        console.log("Initial Balance: " + (intialBalance / SatoshiMultiplier).toFixed(0));
+        console.log("Initial Balance: " + (initialBalance / SatoshiMultiplier).toFixed(0));
     });
     
     
