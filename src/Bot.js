@@ -70,9 +70,8 @@ function MeroBot(){
     });
     
     //register function on Event game_crashed
-    self.gameClient.on('game_crashed', function(data){
-        
-        
+    self.gameClient.on('game_crash', function(data){
+        console.log(JSON.stringify(data));
         
     });
     
