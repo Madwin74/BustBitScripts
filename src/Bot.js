@@ -54,20 +54,20 @@ function MeroBot(){
     
     //get initial Balance
     self.gameClient.on('join', function(data) {
-        console.log("joined");
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
         currentBalance = initialBalance;
+        console.log("Initial Balance: " + (intialBalance / SatoshiMultiplier).toFixed(0));
     });
     
     
     //register functions on Events game_starting
     self.gameClient.on('game_starting', function(data) {
         
-        console.log("betting");
-        this.socket.emit('place_bet', gameConfig.INITIAL, gameConfig.TARGET, function(err) {
+
+/*        this.socket.emit('place_bet', gameConfig.INITIAL, gameConfig.TARGET, function(err) {
             if (err) console.error('Place bet error:', err);
-        });
+        }); */
         
         playedGames++;
     });
