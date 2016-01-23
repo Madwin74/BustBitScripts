@@ -104,7 +104,7 @@ function getOtt(config) {
 
     jar.setCookie(cookie, url);
 
-    var res = request.post({url:url, jar:jar});
+    var res = request.post({uri:url, jar:jar});
     console.log("response:" + res.body);
     return res.body;
 }
