@@ -40,7 +40,23 @@ GameClient.prototype.onConnect = function(data) {
     console.log("Connected to GameServer");
 
     var self = this;
-    getOtt(self.config);
+    var cookie = request.cookie('id=' + config.SESSION),
+        url    = config.WEBSERVER + '/ott',
+        jar    = request.jar();
+
+    jar.setCookie(cookie, url);
+    var res = request.post({uri:url, jar:jar}, function(error, response, body){
+        console.log(body);
+        var ott = body;
+        var info = ott ? { ott: "" + ott } : {};
+        console.log("ott:" + JSON.stringify(ott));
+        self.socket.emit('join', info, function(err, data) {
+        if (err)
+            console.error('[ERROR] onConnect:', err);
+        else
+            self.onJoin(data);
+        });
+    });
         
 //moves to getOTT method
 /*
@@ -97,6 +113,8 @@ GameClient.prototype.onCashedOut = function(data) {
 
 
 // Get a one time token from the server to join the game.
+//obsolete
+/*
 GameClient.prototype.getOtt = function(config) {
     if (!config.SESSION) return null;
     
@@ -123,4 +141,6 @@ GameClient.prototype.getOtt = function(config) {
         
     });
     return res.body;
+    
 };
+ */
