@@ -97,14 +97,37 @@ GameClient.prototype.onCashedOut = function(data) {
 function getOtt(config) {
     if (!config.SESSION) return null;
     
-    require('request').debug = true;
+    
     var cookie = request.cookie('id=' + config.SESSION),
-        url    = config.WEBSERVER + '/ott',
-        jar    = request.jar();
+    //    url    = config.WEBSERVER + '/ott',
+    //    jar    = request.jar();
 
-    jar.setCookie(cookie, url);
+    //jar.setCookie(cookie, url);
 
-    var res = request.post({uri:url, jar:jar});
-    console.log("response:" + res.body);
-    return res.body;
+    //var res = request.post({uri:url, jar:jar});
+    //console.log("response:" + res.body);
+    //return res.body;
+    var options = { 
+    hostname: config.WEBSERVER ,
+    path: '/ott',
+    method: 'GET',
+    headers: {'Cookie': cookie }
+};
+var results = ''; 
+var req = http.request(options, function(res) {
+    res.on('data', function (chunk) {
+        results = results + chunk;
+        console.log("data" + results);
+    }); 
+    res.on('end', function () {
+        //TODO
+        console.log("end: ");
+    }); 
+});
+
+req.on('error', function(e) {
+        //TODO
+});
+
+req.end();
 }
