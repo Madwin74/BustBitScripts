@@ -63,16 +63,21 @@ function MeroBot(){
     //register functions on Events game_starting
     self.gameClient.on('game_starting', function(data) {
         
-            console.log("betting");
-          this.socket.emit('place_bet', 100, 113, function(err) {
-         if (err) console.error('Place bet error:', err);
-          });
+        console.log("betting");
+        this.socket.emit('place_bet', 100, 813, function(err) {
+            if (err) console.error('Place bet error:', err);
+        });
+        
+        playedGames++;
     });
     
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
-        console.log(JSON.stringify(data));
-        
+        //console.log(JSON.stringify(data));
+        if (playedGames > 0)
+		{
+		    
+		}
     });
     
     
