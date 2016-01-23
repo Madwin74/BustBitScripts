@@ -109,7 +109,7 @@ function getOtt(config) {
     } else {
         console.log(response.statusCode, body);
 }
-}););
+});
     console.log("response: ", res);
     console.log("body:" + res.body);
     return res.body;
