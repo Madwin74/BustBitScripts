@@ -98,7 +98,7 @@ function getOtt(config) {
     if (!config.SESSION) return null;
     
     
-    var cookie = request.cookie('id=' + config.SESSION),
+    var cookie = request.cookie('id=' + config.SESSION);
     //    url    = config.WEBSERVER + '/ott',
     //    jar    = request.jar();
 
