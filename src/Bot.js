@@ -74,7 +74,9 @@ function MeroBot(){
             	console.log("Placed " + Math.round(currentBet/SatoshiMultiplier) +" bits on Multiplier: " + gameConfig.TARGET);
             	currentBalance = currentBalance - currentBet;
             	playedGames++;
+            	//set some variables for later processing
             	played = true;
+            	lostLast = false;
             } ;
         }); 
     });
