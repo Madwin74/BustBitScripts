@@ -97,6 +97,7 @@ function MeroBot(){
 		    };
 		    
 		    console.log("Session Profit in bits: " + (currentBalance - initialBalance)/SatoshiMultiplier);
+		    console.log("New Balance: " + currentBalance);
 		}
     });
     
