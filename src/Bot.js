@@ -69,12 +69,12 @@ function MeroBot(){
 	console.log(currentBalance);
 	var CurrMulti = (gameConfig.TARGET * betMultiplier).toFixed(0);
 	
-        this.socket.emit('place_bet', currentBet, 113 , function(err) {
+        this.socket.emit('place_bet', currentBet, CurrMulti.toInteger() , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
             	
             } else { 
-            	currentBalance -= currentBet;
+            	currentBalance = currentBalance - currentBet;
             } ;
         }); 
         
