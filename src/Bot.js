@@ -66,16 +66,12 @@ function MeroBot(){
     
     //register functions on Events game_starting
     self.gameClient.on('game_starting', function(data) {
-        
-	console.log("current Bet: " + currentBet);
-	console.log(currentBalance);
-	var CurrMulti = Math.round(gameConfig.TARGET * betMultiplier);
-	
+        var CurrMulti = Math.round(gameConfig.TARGET * betMultiplier);
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
-            	
-            } else { 
+            } else {
+            	console.log("Placed " + currentBet +" bits on Multiplier: " + Math.round(gameConfig.TARGET * betMultiplier));
             	currentBalance = currentBalance - currentBet;
             	playedGames++;
             	played = true;
