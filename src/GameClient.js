@@ -43,7 +43,7 @@ GameClient.prototype.onConnect = function(data) {
         ott = getOtt(self.config);
 
     var info = ott ? { ott: "" + ott } : {};
-    console.log("ott:" + JSON.stringify(info));
+    console.log("ott:" + JSON.stringify(ott));
     self.socket.emit('join', info, function(err, data) {
         if (err)
             console.error('[ERROR] onConnect:', err);
@@ -97,7 +97,6 @@ GameClient.prototype.onCashedOut = function(data) {
 function getOtt(config) {
     if (!config.SESSION) return null;
 
-    require('request').debug = true
     var cookie = request.cookie('id=' + config.SESSION),
         url    = config.WEBSERVER + '/ott',
         jar    = request.jar();
