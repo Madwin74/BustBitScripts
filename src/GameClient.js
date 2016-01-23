@@ -108,13 +108,14 @@ function getOtt(config) {
         console.log(error);
     } else {
         console.log(response.statusCode, body);
-}
-});
-    while (res.body = ""){
+        callback(body);
+    }
+    });
+    while (body = ""){
         console.log("waiting for response");
     }
     console.log("response: ", res);
-    console.log("body:" + res.body);
+    console.log("body:" + body);
     return res.body;
 
 }
