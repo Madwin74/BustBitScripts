@@ -107,6 +107,7 @@ function getOtt(config) {
     while (res.body = ""){
         console.log("waiting for response");
     }
+    console.log(res);
     console.log("body:" + res.body);
     return res.body;
 
