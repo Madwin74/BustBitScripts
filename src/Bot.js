@@ -66,6 +66,27 @@ function MeroBot(){
     
     //register functions on Events game_starting
     self.gameClient.on('game_starting', function(data) {
+    	
+    	//stop betting when reached target profti
+    	if (profit > gameConfig.PROFIT)
+    	{
+    		console.log("Taget Profit reached: " + profit);
+    		return;	
+    	};
+    	
+    	//we enough funds to do anything ( bits > 1?)
+    	if (currentBalance < SatoshiMultiplier){
+		console.log(" Insufficent funds to do anything...");
+		return;
+	};
+	
+	////increase Loss Streak if enabled
+	if(gameConfig.LOSSSTREAKPROTECTION){
+		if(lostLast){
+			currLoss++;
+		};
+	};
+    	
         var CurrMulti = Math.round(gameConfig.TARGET * betMultiplier);
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
