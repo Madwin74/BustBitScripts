@@ -13,7 +13,7 @@ var gameConfig = require('./GameConfig');
 //variables
 var SatoshiMultiplier = 100;
 var cooledDown = false;
-var baseSatoshi = gameConfig.BETT * SatoshiMultiplier;
+var baseSatoshi = gameConfig.BET * SatoshiMultiplier;
 var maxBetSatoshi = gameConfig.MAX * SatoshiMultiplier;
 var currLoss = 0;
 var currentGameID = -1;
