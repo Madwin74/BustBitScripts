@@ -27,6 +27,8 @@ var currentTime;
 var highestBalance = 0;
 var currentBalance = 0;
 var betMultiplier = 100;
+var played = false;
+var lostLast = false;
 
 currentBet = baseSatoshi;
 
@@ -76,6 +78,7 @@ function MeroBot(){
             } else { 
             	currentBalance = currentBalance - currentBet;
             	playedGames++;
+            	played = true;
             } ;
         }); 
     });
@@ -83,9 +86,13 @@ function MeroBot(){
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
         console.log(JSON.stringify(data));
-        if (playedGames > 0)
+        if (playedGames > 0 && played)
 		{
-		    
+		    played = false;
+		    if (data.crashed < 113)
+		    {
+		    	lostLast = true;
+		    }
 		}
     });
     
