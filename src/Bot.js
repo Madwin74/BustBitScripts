@@ -13,7 +13,7 @@ var gameConfig = require('./GameConfig');
 //variables
 var SatoshiMultiplier = 100;
 var cooledDown = false;
-var baseSatoshi = gameConfig.FIRST * SatoshiMultiplier;
+var baseSatoshi = gameConfig.BETT * SatoshiMultiplier;
 var maxBetSatoshi = gameConfig.MAX * SatoshiMultiplier;
 var currLoss = 0;
 var currentGameID = -1;
@@ -31,9 +31,6 @@ var betMultiplier = 100;
 currentBet = baseSatoshi;
 
 //welcome statement
-console.log(gameConfig.FIRST);
-console.log(SatoshiMultiplier);
-console.log(baseSatoshi);
 console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 
 
