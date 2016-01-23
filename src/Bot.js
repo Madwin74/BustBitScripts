@@ -92,7 +92,7 @@ function MeroBot(){
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " LOST");
 		    	lostLast = true;
 		    } else {
-		    	//currentBalance = currentBalance + Einsatz + gewinn + Bonus;
+		    	currentBalance = currentBalance + Math.round(currentBet*gameConfig.TARGET);// TODO: BONUS    + Bonus;
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
 		    
