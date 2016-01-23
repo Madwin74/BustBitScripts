@@ -108,7 +108,6 @@ function getOtt(config) {
         console.log(error);
     } else {
         console.log(response.statusCode, body);
-        callback(body);
     }
     });
     while (res.body = ""){
