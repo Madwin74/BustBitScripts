@@ -46,10 +46,10 @@ GameClient.prototype.onConnect = function(data) {
 
     jar.setCookie(cookie, url);
     var res = request.post({uri:url, jar:jar}, function(error, response, body){
-        console.log(body);
+        //console.log(body);
         var ott = body;
         var info = ott ? { ott: "" + ott } : {};
-        console.log("ott:" + JSON.stringify(ott));
+        //console.log("ott:" + JSON.stringify(ott));
         self.socket.emit('join', info, function(err, data) {
         if (err)
             console.error('[ERROR] onConnect:', err);
