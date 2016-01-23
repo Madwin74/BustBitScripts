@@ -96,8 +96,8 @@ function MeroBot(){
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
 		    
-		    console.log("Session Profit in bits: " + (currentBalance - initialBalance)/SatoshiMultiplier);
-		    console.log("New Balance: " + currentBalance);
+		    console.log("Session Profit in bits: " + ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2));
+		    console.log("New Balance: " + (currentBalance/SatoshiMultiplier).toFixed(2));
 		}
     });
     
