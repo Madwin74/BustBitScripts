@@ -97,7 +97,7 @@ GameClient.prototype.onCashedOut = function(data) {
 
 
 // Get a one time token from the server to join the game.
-function GameClient.prototype.getOtt(config) {
+GameClient.prototype.getOtt = function(config) {
     if (!config.SESSION) return null;
     
     var self = this;
