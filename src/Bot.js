@@ -60,6 +60,11 @@ function MeroBot(){
         console.log("Initial Balance: " + (initialBalance / SatoshiMultiplier).toFixed(2));
     });
     
+    //helper
+    function isInteger(x) {
+        return x % 1 === 0;
+    };
+    
     
     //register functions on Events game_starting
     self.gameClient.on('game_starting', function(data) {
@@ -92,11 +97,6 @@ function MeroBot(){
     
     
 }
-
-function isInteger(x) {
-        return x % 1 === 0;
-    }
-
 
 module.exports.merobot = new MeroBot();
 
