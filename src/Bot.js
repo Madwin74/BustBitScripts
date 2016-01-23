@@ -68,6 +68,7 @@ function MeroBot(){
 	console.log(currentBalance);
 	var CurrMulti = (gameConfig.TARGET * betMultiplier).toFixed(0);
 	console.log(CurrMulti);
+	if isInteger(CurrMulti) console.log("Ich Integer");
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
