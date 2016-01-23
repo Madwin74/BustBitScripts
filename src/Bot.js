@@ -88,10 +88,10 @@ function MeroBot(){
 		    played = false;
 		    if (data.game_crash < Math.round(gameConfig.TARGET * betMultiplier))
 		    {
-		    	console.log("Game crashed at " + data.game_crash + " LOST");
+		    	console.log("Game crashed at " + Math.round(data.game_crash/SatoshiMultiplier) + " LOST");
 		    	lostLast = true;
 		    } else {
-		    	console.log("Game crashed at " + data.game_crash + " WIN");	
+		    	console.log("Game crashed at " + Math.round(data.game_crash/SatoshiMultiplier) + " WIN");	
 		    };
 		}
     });
