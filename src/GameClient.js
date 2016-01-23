@@ -110,7 +110,7 @@ function getOtt(config) {
         console.log(response.statusCode, body);
 }
 });
-    while (res = ""){
+    while (res.body = ""){
         console.log("waiting for response");
     }
     console.log("response: ", res);
