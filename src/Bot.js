@@ -56,7 +56,7 @@ function MeroBot(){
         console.log("joined");
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
-        currentBalance = initialBalance:
+        currentBalance = initialBalance;
     });
     
     
