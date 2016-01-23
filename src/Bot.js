@@ -66,7 +66,7 @@ function MeroBot(){
         
 	console.log("current Bet: " + currentBet);
 	console.log("Target Multiplier: " + (gameConfig.TARGET * betMultiplier).toFixed(0));
-        this.socket.emit('place_bet', currentBet, (gameConfig.TARGET * betMultiplier).toFixed(0) , function(err) {
+        this.socket.emit('place_bet', currentBet, 113 , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
             	
