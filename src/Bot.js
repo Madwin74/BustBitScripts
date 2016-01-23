@@ -71,9 +71,6 @@ function MeroBot(){
     
 }
 
-console.log("start");
-
-
 
 module.exports.merobot = new MeroBot();
 
