@@ -106,8 +106,9 @@ function getOtt(config) {
         jar    = request.jar();
 
     jar.setCookie(cookie, url);
-    var res = request.post({uri:url, jar:jar}, function(){
-        
+    var res = request.post({uri:url, jar:jar}, function(error, response, body){
+        console.log(body);
+        var ott = body;
         var info = ott ? { ott: "" + ott } : {};
         console.log("ott:" + JSON.stringify(ott));
         self.socket.emit('join', info, function(err, data) {
@@ -120,11 +121,5 @@ function getOtt(config) {
         
         
     });
-    while (res.body = ""){
-        console.log("waiting for response");
-    }
-    console.log(res);
-    console.log("body:" + res.body);
     return res.body;
-
 }
