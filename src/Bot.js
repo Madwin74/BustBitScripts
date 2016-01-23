@@ -25,6 +25,7 @@ var startTime = new Date().getTime();
 var timeRunning = 0;
 var currentTime;
 var highestBalance = 0;
+var currentBalance = 0;
 
 currentbet = baseSatoshi;
 
@@ -55,7 +56,7 @@ function MeroBot(){
         console.log("joined");
         initialBalance = data.balance_satoshis;
         highestBalance = initialBalance;
-        console.log(initialBalance);
+        currentBalance = initialBalance:
     });
     
     
