@@ -106,7 +106,9 @@ function getOtt(config) {
 
     var res = request.post({url:url, jar:jar});
     
-    res = request.post({url:url, jar:jar});
+    setTimeout(function() {
+        console.log('Waiting for answer');
+    }, 3000);
     console.log("response:" + res.body);
     return res.body;
 }
