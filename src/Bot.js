@@ -75,10 +75,9 @@ function MeroBot(){
             	
             } else { 
             	currentBalance = currentBalance - currentBet;
+            	playedGames++;
             } ;
         }); 
-        
-        playedGames++;
     });
     
     //register function on Event game_crashed
