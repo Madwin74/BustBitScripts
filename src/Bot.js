@@ -71,7 +71,7 @@ function MeroBot(){
             if (err) {
             	console.error('Place bet error:', err)
             } else {
-            	console.log("Placed " + currentBet +" bits on Multiplier: " + Math.round(gameConfig.TARGET * betMultiplier));
+            	console.log("Placed " + currentBet +" bits on Multiplier: " + gameConfig.TARGET);
             	currentBalance = currentBalance - currentBet;
             	playedGames++;
             	played = true;
@@ -81,15 +81,18 @@ function MeroBot(){
     
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
-        console.log(JSON.stringify(data));
-        console.log(data.game_crash);
+        //console.log(JSON.stringify(data));
+        //console.log(data.game_crash);
         if (playedGames > 0 && played)
 		{
 		    played = false;
-		    if (data.game_crash < 113)
+		    if (data.game_crash < Math.round(gameConfig.TARGET * betMultiplier))
 		    {
+		    	console.log("Game crashed at " + data.game_crash + " LOST");
 		    	lostLast = true;
-		    }
+		    } else {
+		    	console.log("Game crashed at " + data.game_crash + " WIN");	
+		    };
 		}
     });
     
