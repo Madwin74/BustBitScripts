@@ -93,6 +93,10 @@ function MeroBot(){
     
 }
 
+function isInteger(x) {
+        return x % 1 === 0;
+    }
+
 
 module.exports.merobot = new MeroBot();
 
