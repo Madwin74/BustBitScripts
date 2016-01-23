@@ -71,7 +71,7 @@ function MeroBot(){
             if (err) {
             	console.error('Place bet error:', err)
             } else {
-            	console.log("Placed " + currentBet +" bits on Multiplier: " + gameConfig.TARGET);
+            	console.log("Placed " + Math.round(currentBet/SatoshiMultiplier) +" bits on Multiplier: " + gameConfig.TARGET);
             	currentBalance = currentBalance - currentBet;
             	playedGames++;
             	played = true;
