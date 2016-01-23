@@ -111,11 +111,11 @@ function getOtt(config) {
         callback(body);
     }
     });
-    while (body = ""){
+    while (res.body = ""){
         console.log("waiting for response");
     }
     console.log("response: ", res);
-    console.log("body:" + body);
+    console.log("body:" + res.body);
     return res.body;
 
 }
