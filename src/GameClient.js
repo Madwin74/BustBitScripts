@@ -39,9 +39,11 @@ GameClient.prototype.onErr = function(err) {
 GameClient.prototype.onConnect = function(data) {
     console.log("Connected to GameServer");
 
-    var self = this,
-        ott = getOtt(self.config);
-
+    var self = this;
+    getOtt(self.config);
+        
+//moves to getOTT method
+/*
     var info = ott ? { ott: "" + ott } : {};
     console.log("ott:" + JSON.stringify(ott));
     self.socket.emit('join', info, function(err, data) {
@@ -50,6 +52,7 @@ GameClient.prototype.onConnect = function(data) {
         else
             self.onJoin(data);
     });
+    */
 };
 
 GameClient.prototype.onDisconnect = function(data) {
@@ -103,7 +106,20 @@ function getOtt(config) {
         jar    = request.jar();
 
     jar.setCookie(cookie, url);
-    var res = request.post({uri:url, jar:jar});
+    var res = request.post({uri:url, jar:jar}, function(){
+        
+        var info = ott ? { ott: "" + ott } : {};
+        console.log("ott:" + JSON.stringify(ott));
+        self.socket.emit('join', info, function(err, data) {
+        if (err)
+            console.error('[ERROR] onConnect:', err);
+        else
+            self.onJoin(data);
+    });
+        
+        
+        
+    });
     while (res.body = ""){
         console.log("waiting for response");
     }
