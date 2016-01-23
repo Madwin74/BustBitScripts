@@ -40,7 +40,7 @@ GameClient.prototype.onConnect = function(data) {
     console.log("Connected to GameServer");
 
     var self = this;
-    var cookie = request.cookie('id=' + config.SESSION),
+    var cookie = request.cookie('id=' + self.config.SESSION),
         url    = config.WEBSERVER + '/ott',
         jar    = request.jar();
 
