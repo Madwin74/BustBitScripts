@@ -65,9 +65,14 @@ function MeroBot(){
     self.gameClient.on('game_starting', function(data) {
         
 
-/*        this.socket.emit('place_bet', gameConfig.INITIAL, gameConfig.TARGET, function(err) {
-            if (err) console.error('Place bet error:', err);
-        }); */
+        this.socket.emit('place_bet', currentBet, gameConfig.TARGET, function(err) {
+            if (err) {
+            	console.error('Place bet error:', err)
+            	
+            } else { 
+            	currentBalance -= currentBet;
+            } ;
+        }); 
         
         playedGames++;
     });
