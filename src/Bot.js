@@ -60,10 +60,6 @@ function MeroBot(){
         console.log("Initial Balance: " + (initialBalance / SatoshiMultiplier).toFixed(2));
     });
     
-    //helper
-    function isInteger(x) {
-        return x % 1 === 0;
-    };
     
     
     //register functions on Events game_starting
@@ -73,7 +69,7 @@ function MeroBot(){
 	console.log(currentBalance);
 	var CurrMulti = (gameConfig.TARGET * betMultiplier).toFixed(0);
 	console.log(CurrMulti);
-	if isInteger(CurrMulti) console.log("Ich Integer");
+	if (CurrMulti % 1 == 0) console.log("Ich Integer");
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
