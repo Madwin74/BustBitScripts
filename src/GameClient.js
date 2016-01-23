@@ -43,7 +43,7 @@ GameClient.prototype.onConnect = function(data) {
         ott = getOtt(self.config);
 
     var info = ott ? { ott: "" + ott } : {};
-    console.log("ott:" + JSON.stringify(ott));
+    console.log("ott:" + JSON.stringify(info));
     self.socket.emit('join', info, function(err, data) {
         if (err)
             console.error('[ERROR] onConnect:', err);
