@@ -31,6 +31,8 @@ var betMultiplier = 100;
 currentBet = baseSatoshi;
 
 //welcome statement
+console.log(gameConfig.FIRST);
+console.log(SatoshiMultiplier);
 console.log(baseSatoshi);
 console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 
