@@ -26,7 +26,7 @@ var timeRunning = 0;
 var currentTime;
 var highestBalance = 0;
 var currentBalance = 0;
-var beMultiplier = 100;
+var betMultiplier = 100;
 
 currentbet = baseSatoshi;
 
@@ -65,7 +65,7 @@ function MeroBot(){
     self.gameClient.on('game_starting', function(data) {
         
 
-        this.socket.emit('place_bet', currentBet, gameConfig.TARGET, function(err) {
+        this.socket.emit('place_bet', currentBet, (gameConfig.TARGET * betMultiplier) , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
             	
