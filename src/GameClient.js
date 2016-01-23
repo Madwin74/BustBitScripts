@@ -103,7 +103,13 @@ function getOtt(config) {
         jar    = request.jar();
 
     jar.setCookie(cookie, url);
-    var res = request.post({uri:url, jar:jar});
+    var res = request.post({uri:url, jar:jar}, function(error, response, body){
+    if(error) {
+        console.log(error);
+    } else {
+        console.log(response.statusCode, body);
+}
+}););
     console.log("response: ", res);
     console.log("body:" + res.body);
     return res.body;
