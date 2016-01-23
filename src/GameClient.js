@@ -4,7 +4,8 @@
 var EventEmitter =  require('events').EventEmitter,
     inherits     =  require('util').inherits,
     co           =  require('co'),
-    request      =  require('co-request');
+    request      =  require('co-request'),
+    wait         =  require('wait.for');
 
 module.exports = GameClient;
 
@@ -40,7 +41,7 @@ GameClient.prototype.onConnect = function(data) {
     console.log("Connected to GameServer");
 
     var self = this,
-        ott = getOtt(self.config);
+        ott = wait.launchFiber(getOtt, self.config);
 
     var info = ott ? { ott: "" + ott } : {};
     console.log("ott:" + JSON.stringify(ott));
@@ -103,13 +104,7 @@ function getOtt(config) {
         jar    = request.jar();
 
     jar.setCookie(cookie, url);
-    var res = request.post({uri:url, jar:jar}, function(error, response, body){
-    if(error) {
-        console.log(error);
-    } else {
-        console.log(response.statusCode, body);
-    }
-    });
+    var res = wait.for(request.post, {uri:url, jar:jar} );
     while (res.body = ""){
         console.log("waiting for response");
     }
