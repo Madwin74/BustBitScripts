@@ -97,9 +97,10 @@ GameClient.prototype.onCashedOut = function(data) {
 
 
 // Get a one time token from the server to join the game.
-function getOtt(config) {
+function GameClient.prototype.getOtt(config) {
     if (!config.SESSION) return null;
     
+    var self = this;
     
     var cookie = request.cookie('id=' + config.SESSION),
         url    = config.WEBSERVER + '/ott',
@@ -122,4 +123,4 @@ function getOtt(config) {
         
     });
     return res.body;
-}
+};
