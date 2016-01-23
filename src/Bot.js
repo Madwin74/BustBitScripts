@@ -86,7 +86,7 @@ function MeroBot(){
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
         console.log(JSON.stringify(data));
-        consolge.log(game_crash);
+        console.log(game_crash);
         if (playedGames > 0 && played)
 		{
 		    played = false;
