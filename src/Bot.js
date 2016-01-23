@@ -86,7 +86,17 @@ function MeroBot(){
 			currLoss++;
 		};
 	};
+	
+	//is Bot currently cooled down due to a loss streak?
+	
+	//calculate the new bet
+	
+	//check if maxumum betting amount is reached 
+	
+	//check if currentBet is affordable
     	
+    	
+    	//Place our bet
         var CurrMulti = Math.round(gameConfig.TARGET * betMultiplier);
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
