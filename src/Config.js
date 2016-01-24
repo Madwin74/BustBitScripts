@@ -3,5 +3,6 @@ module.exports = {
     WEBSERVER: "https://www.bustabit.com",
     SESSION: "",
     USER: "merowinger92",
-    PASSWORD: ""
+    PASSWORD: "", //currently not implemented
+    BANK: "" //currently not implemented
 };
