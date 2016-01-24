@@ -118,6 +118,7 @@ function MeroBot(){
         //console.log(data.game_crash);
         if (playedGames > 0 && played)
 		{
+		    //not sure if correct place for played variable...
 		    played = false;
 		    if (data.game_crash < Math.round(gameConfig.TARGET * betMultiplier))
 		    {
