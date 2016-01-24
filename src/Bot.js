@@ -135,7 +135,21 @@ function MeroBot(){
 	};
 	
 	//check if currentBet is affordable
-    	
+    	if (currentBet > currentBalance )
+	{
+		console.log('[Bot] Cannot afford ' + currentBet / SatoshiMultiplier + ' bits...');
+		if (gameConfig.LOW){
+			console.log('[Bot] Stop betting due to low balance');
+			return;				
+		}
+			
+		if ( baseSatoshi > currentBalance ) {
+			console.error('[Bot] Insufficent funds for intial bet... stopping');
+			return;
+		};
+		
+		currentBet = baseSatoshi;				
+	};
     	
     	//Place our bet
         var CurrMulti = Math.round(gameConfig.TARGET * betMultiplier);
