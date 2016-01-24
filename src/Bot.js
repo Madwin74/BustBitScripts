@@ -82,7 +82,7 @@ function MeroBot(){
 	
 	////increase Loss Streak if enabled
 	if(gameConfig.LOSSSTREAKPROTECTION){
-		if(lostLast){
+		if(lostLast && played){
 			currLoss++;
 		};
 	//is Bot currently cooled down due to a loss streak?	
@@ -97,14 +97,42 @@ function MeroBot(){
 				currLoss--;
 				console.log('[Bot] Secured your stake for another ' + currLoss + ' games');
 				return;
-			}			
-		}
+			};			
+		};
 	};
 	
-	
 	//calculate the new bet
+	if ( !(lostLast) && playedGames > 0 && played )
+	{
+		currLoss = 0;
+		//either multiply or add the basebet
+		if (gameConfig.MULTIPLY){
+			currentBet *= gameConfig.MULITIPLIER;
+		} else{
+			currentBet += baseSatoshi;
+		};
+		if (highestBalance <= currentBalance )
+		{
+			//use base bet according to OScars Grind systemLanguage
+			currentBet = baseSatoshi;
+			highestBalance = currentBalance;
+		};
+	};
 	
 	//check if maxumum betting amount is reached 
+	if (currentBet > gameConfig.MAX) {
+		console.log('[Bot] Max amount bet bits reached...');
+		if (gameConfig.STOP){
+			console.log('[Bot] stopping Bot');
+			return;
+		};
+		if (gameConfig.RESET)
+		{
+			currentBet = baseSatoshi;
+		} else {
+			currentBet = maxBetSatoshi;
+		};
+	};
 	
 	//check if currentBet is affordable
     	
