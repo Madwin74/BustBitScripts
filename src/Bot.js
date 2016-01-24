@@ -169,6 +169,7 @@ function MeroBot(){
     
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
+    	console.log("Current balance before: " + currentBalance)
         //console.log(JSON.stringify(data));
         //console.log(data.game_crash);
         if (playedGames > 0 && played)
