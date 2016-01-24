@@ -85,9 +85,22 @@ function MeroBot(){
 		if(lostLast){
 			currLoss++;
 		};
+	//is Bot currently cooled down due to a loss streak?	
+		if (currLoss >= gameConfig.LOSSSTREAK){
+			cooledDown = true;
+			console.log('[Bot] We are on a Loss Streak... Cooling down..');
+		}
+		if (cooledDown){
+			if (currLoss == 0) {
+				cooledDown = false;
+			}else {
+				currLoss--;
+				console.log('[Bot] Secured your stake for another ' + currLoss + ' games');
+				return;
+			}			
+		}
 	};
 	
-	//is Bot currently cooled down due to a loss streak?
 	
 	//calculate the new bet
 	
