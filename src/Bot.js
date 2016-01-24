@@ -169,12 +169,16 @@ function MeroBot(){
     
     //register function on Event game_crashed
     self.gameClient.on('game_crash', function(data){
-    	console.log("Current balance before: " + currentBalance)
+    	//console.log("Current balance before: " + currentBalance)
         //console.log(JSON.stringify(data));
         //console.log(data.game_crash);
         if (playedGames > 0 && played)
 		{
 		    var bonus = data.bonuses[self.Config.USER];
+		    if (bonus == undefined)
+		    {
+		    	bonus = 0;
+		    }
 		    //not sure if correct place for played variable...
 		    played = false;
 		    if (data.game_crash < Math.round(gameConfig.TARGET * betMultiplier))
@@ -186,11 +190,11 @@ function MeroBot(){
 		    	currentBalance = currentBalance + Math.round(currentBet*gameConfig.TARGET) + bonus;// TODO: BONUS    + Bonus;
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
-		    console.log(currentBalance);
-		    console.log(initialBalance);
+		    //console.log(currentBalance);
+		    //console.log(initialBalance);
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
-		    console.log("New Balance: " + (currentBalance/SatoshiMultiplier).toFixed(2));
+		    //console.log("New Balance: " + (currentBalance/SatoshiMultiplier).toFixed(2));
 		}
     });
     
