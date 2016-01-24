@@ -185,8 +185,8 @@ function MeroBot(){
 		    	currentBalance = currentBalance + Math.round(currentBet*gameConfig.TARGET) + bonus;// TODO: BONUS    + Bonus;
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
-		    console.log(currentBalance.toFixed(2));
-		    console.log(initialBalance.toFixed(2));
+		    console.log((currentBalance).toFixed(2));
+		    console.log((initialBalance).toFixed(2));
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
 		    console.log("New Balance: " + (currentBalance/SatoshiMultiplier).toFixed(2));
