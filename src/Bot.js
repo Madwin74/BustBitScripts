@@ -96,6 +96,8 @@ function MeroBot(){
 			}else {
 				currLoss--;
 				console.log('[Bot] Secured your stake for another ' + currLoss + ' games');
+				//not sure if correct place for played variable...
+		    		played = false;
 				return;
 			};			
 		};
@@ -186,8 +188,7 @@ function MeroBot(){
 		    {
 		    	bonus = 0;
 		    }
-		    //not sure if correct place for played variable...
-		    played = false;
+
 		    if (data.game_crash < Math.round(gameConfig.TARGET * betMultiplier))
 		    {
 		    	currentBalance = currentBalance + bonus;
