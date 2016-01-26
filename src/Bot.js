@@ -102,6 +102,9 @@ function MeroBot(){
 	};
 	
 	//calculate the new bet
+	console.log(lostLast);
+	console.log(playedGames);
+	console.log(played);
 	if ( !(lostLast) && playedGames > 0 && played )
 	{
 		console.log("calc new bet");
