@@ -104,15 +104,19 @@ function MeroBot(){
 	//calculate the new bet
 	if ( !(lostLast) && playedGames > 0 && played )
 	{
+		console.log("calc new bet");
 		currLoss = 0;
 		//either multiply or add the basebet
 		if (gameConfig.MULTIPLY){
 			currentBet *= gameConfig.MULITIPLIER;
 		} else{
+			console.log("+");
 			currentBet += baseSatoshi;
 		};
 		if (highestBalance <= currentBalance )
 		{
+			console.log(highestBalance);
+			console.log(currentBalance);
 			//use base bet according to OScars Grind systemLanguage
 			currentBet = baseSatoshi;
 			highestBalance = currentBalance;
