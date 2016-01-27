@@ -116,7 +116,7 @@ GameClient.prototype.transfer = function(data){
  var self = this;
 
   // Build the post string from an object
-    var post_data = encodeURI("amount="+parseFloat(data.AMOUNT))+
+    var post_data = encodeURI("amount="+parseFloat(data.AMOUNT)+
                                "&to-user="+data.ACCOUNT+
                                "&password="+ self.Config.PASSWORD+
                                "&transfer-id="+uuid.v4());
