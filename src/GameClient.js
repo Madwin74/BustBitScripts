@@ -110,6 +110,46 @@ GameClient.prototype.onCashedOut = function(data) {
   }
 };
 
+GameClient.prototype.transfer = function(data){
+ var uuid = require('node-uuid');
+ var https = require("https"); 
+ var self = this;
+    
+    
+  try{
+  // Build the post string from an object
+    var post_data = encodeURI("amount="+parseFloat(require("../bot.js").raffle.pot())+
+                               "&to-user="+winner+
+                               "&password="+ self.Config.PASSWORD+
+                               "&transfer-id="+uuid.v4());
+                              // An object of options to indicate where to post to
+    var post_options = {  host: 'www.bustabit.com',
+                          port: '443',
+                          path: '/transfer-request',
+                          method: 'POST',
+                          headers: {
+                                  'Content-Type': 'application/x-www-form-urlencoded',
+                                  'Content-Length': post_data.length,
+                                  'Access-Control-Allow-Credentials': true,
+                                  'Cookie': "id="+self.Config.SESSION
+                          }
+                         };
+    // Set up the request
+     var post_req = https.request(post_options, function(res) {
+     res.setEncoding('utf8');
+     res.on('data', function (chunk) {
+                                      //console.log('Response: ' + chunk);
+          });
+      });
+                            
+     // post the data
+     post_req.write(post_data);
+     post_req.end();
+    }catch(e){
+        console.log("error Lottery.timer: "+e.message);
+    };
+};
+
 
 
 // Get a one time token from the server to join the game.
