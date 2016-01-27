@@ -114,9 +114,7 @@ GameClient.prototype.transfer = function(data){
  var uuid = require('node-uuid');
  var https = require("https"); 
  var self = this;
-    
-    
-  try{
+
   // Build the post string from an object
     var post_data = encodeURI("amount="+parseFloat(data.AMOUNT))+
                                "&to-user="+data.ACCOUNT+
@@ -145,9 +143,6 @@ GameClient.prototype.transfer = function(data){
      // post the data
      post_req.write(post_data);
      post_req.end();
-    }catch(e){
-        console.log("error Lottery.timer: "+e.message);
-    };
 };
 
 
