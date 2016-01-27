@@ -39,7 +39,7 @@ console.log('[Bot] ====== Merowinger\'s BustaBit Script ======[Bot]');
 /* BOT
 -----------------*/
 function MeroBot(){
-    var self = this
+    var self = this;
     self.Config = require('./Config');
     //console.log(JSON.stringify(self.Config)); // uncomment to see your configs
     var GameClient = require('./GameClient'),
@@ -193,12 +193,26 @@ function MeroBot(){
 		    	currentBalance = currentBalance + Math.round(currentBet*gameConfig.TARGET) + bonus;// TODO: BONUS    + Bonus;
 		    	console.log("Game crashed at " + (data.game_crash/SatoshiMultiplier).toFixed(2) + " WIN");	
 		    };
-		    //console.log(currentBalance);
-		    //console.log(initialBalance);
+
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
-		    //console.log("New Balance: " + (currentBalance/SatoshiMultiplier).toFixed(2));
 		}
+	if (GameConfig.ENABLEBANK){
+		if (profit > gameConfig.BANK){
+			
+			var data = { AMOUNT: gameConfig.BANK,
+				     self.Config.BANK };
+			self.GameClient.transfer(data);     
+			
+			//reset
+			profit = 0;
+			initalBalance = currentBalance;
+			highestBalance = 0;
+		}
+	};
+	
+	};
+		
     });
     
     

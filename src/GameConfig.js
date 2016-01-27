@@ -9,5 +9,7 @@ module.exports = {
     LOSSSTREAKPROTECTION: true, // enable LossStreak Protection
     LOSSSTREAK: 3, //if Loss Streak Protection is enabled; maximum lose streak before pausing the bot for x games
     MULTIPLY: false, // if set to true each winning stake is multiplied by betMultiplier
-    MULITIPLIER: 2 //only used when multilyBet is true
+    MULITIPLIER: 2, //only used when multilyBet is true
+    ENABLEBANK: true, //enable for save x amount of profit to another account
+    BANK: 100 //amount when to save profit
 };
