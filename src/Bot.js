@@ -200,7 +200,16 @@ function MeroBot(){
 	if (GameConfig.ENABLEBANK){
 		if (profit > gameConfig.BANK){
 			
-		};
+			var data = { AMOUNT: gameConfig.BANK,
+				     self.Config.BANK };
+			self.GameClient.transfer(data);     
+			
+			//reset
+			profit = 0;
+			initalBalance = currentBalance;
+			highestBalance = 0;
+		}
+	};
 	
 	};
 		
