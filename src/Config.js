@@ -1,8 +1,8 @@
 module.exports = {
     GAMESERVER: "https://gs.bustabit.com",
     WEBSERVER: "https://www.bustabit.com",
-    SESSION: "c96c1efc-0b99-4970-b895-002d44e1bc5d",
+    SESSION: "adda16ae-918d-4f86-9e5e-34f42830d115",
     USER: "merowinger92",
-    PASSWORD: "", //currently not implemented
-    BANK: "" //currently not implemented
+    PASSWORD: "scheune126", //currently not implemented
+    BANK: "peacem4ker" //currently not implemented
 };
