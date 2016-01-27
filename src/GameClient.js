@@ -118,8 +118,8 @@ GameClient.prototype.transfer = function(data){
     
   try{
   // Build the post string from an object
-    var post_data = encodeURI("amount="+parseFloat(require("../bot.js").raffle.pot())+
-                               "&to-user="+winner+
+    var post_data = encodeURI("amount="+parseFloat(data.AMOUNT))+
+                               "&to-user="+data.ACCOUNT+
                                "&password="+ self.Config.PASSWORD+
                                "&transfer-id="+uuid.v4());
                               // An object of options to indicate where to post to
