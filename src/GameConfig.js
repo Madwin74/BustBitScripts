@@ -1,6 +1,6 @@
 module.exports = {
     TARGET: 1.13, //Target Multiplier when to cash out
-    BET: 2, //first BET
+    BET: 1, //first BET
     MAX: 10000000000000, //maximum bet that the bot will bet
     RESET: false, //true: if max bet is reached bet will be reset to initial bet, false: continue with maxBet 
     STOP: false, //true: stop if maxBet is reached, false: continue with processing
