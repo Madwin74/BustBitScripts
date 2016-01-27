@@ -211,7 +211,7 @@ function MeroBot(){
 		}
 	};
 	
-	};
+	});
 		
     
     
