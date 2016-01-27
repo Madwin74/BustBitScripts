@@ -197,20 +197,6 @@ function MeroBot(){
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
 		}
-	if (GameConfig.ENABLEBANK){
-		if (profit > gameConfig.BANK){
-			
-			var data = { AMOUNT: gameConfig.BANK,
-				     ACCOUNT: self.Config.BANK };
-			self.GameClient.transfer(data);     
-			
-			//reset
-			profit = 0;
-			initalBalance = currentBalance;
-			highestBalance = 0;
-		}
-	};
-	
 	});
 		
     
