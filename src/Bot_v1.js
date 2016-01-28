@@ -237,7 +237,8 @@ function MeroBot(){
 			
 			var data = { AMOUNT: gameConfig.BANK,
 				     ACCOUNT: self.Config.BANK };
-			transfer(data);     
+			
+			//transfer(data);     
 			
 			//reset
 			profit = 0;
