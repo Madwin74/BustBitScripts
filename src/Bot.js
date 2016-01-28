@@ -232,13 +232,13 @@ function MeroBot(){
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
 		}
-	if (GameConfig.ENABLEBANK){
+	if (gameConfig.ENABLEBANK){
 		if (profit > gameConfig.BANK){
 			
 			var data = { AMOUNT: gameConfig.BANK,
 				     ACCOUNT: self.Config.BANK };
 			
-			//transfer(data);     
+			transfer(data);     
 			
 			//reset
 			profit = 0;
