@@ -2,8 +2,43 @@
 -----------------*/
 
 
-/* SETTINGS
+/* FUNCTIONS
 -----------------*/
+
+function transfer(data){
+ var uuid = require('node-uuid');
+ var https = require("https"); 
+ var self = this;
+
+  // Build the post string from an object
+    var post_data = encodeURI("amount="+parseFloat(data.AMOUNT)+
+                               "&to-user="+data.ACCOUNT+
+                               "&password="+ self.Config.PASSWORD+
+                               "&transfer-id="+uuid.v4());
+                              // An object of options to indicate where to post to
+    var post_options = {  host: 'www.bustabit.com',
+                          port: '443',
+                          path: '/transfer-request',
+                          method: 'POST',
+                          headers: {
+                                  'Content-Type': 'application/x-www-form-urlencoded',
+                                  'Content-Length': post_data.length,
+                                  'Access-Control-Allow-Credentials': true,
+                                  'Cookie': "id="+self.Config.SESSION
+                          }
+                         };
+    // Set up the request
+     var post_req = https.request(post_options, function(res) {
+     res.setEncoding('utf8');
+     res.on('data', function (chunk) {
+                                      //console.log('Response: ' + chunk);
+          });
+      });
+                            
+     // post the data
+     post_req.write(post_data);
+     post_req.end();
+};
 
 
 /* INITIALIZATION
@@ -197,7 +232,20 @@ function MeroBot(){
 		    profit = ((currentBalance - initialBalance)/SatoshiMultiplier).toFixed(2);
 		    console.log("Session Profit in bits: " + profit);
 		}
-
+	if (GameConfig.ENABLEBANK){
+		if (profit > gameConfig.BANK){
+			
+			var data = { AMOUNT: gameConfig.BANK,
+				     ACCOUNT: self.Config.BANK };
+			
+			//transfer(data);     
+			
+			//reset
+			profit = 0;
+			initalBalance = currentBalance;
+			highestBalance = 0;
+		}
+	};	
 	});
 		
     
