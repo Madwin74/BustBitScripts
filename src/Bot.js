@@ -13,7 +13,7 @@ function transfer(data){
   // Build the post string from an object
     var post_data = encodeURI("amount="+parseFloat(data.AMOUNT)+
                                "&to-user="+data.ACCOUNT+
-                               "&password="+ self.Config.PASSWORD+
+                               "&password="+ data.PASSWORD+
                                "&transfer-id="+uuid.v4());
                               // An object of options to indicate where to post to
     var post_options = {  host: 'www.bustabit.com',
@@ -236,7 +236,8 @@ function MeroBot(){
 		if (profit > gameConfig.BANK){
 			
 			var data = { AMOUNT: gameConfig.BANK,
-				     ACCOUNT: self.Config.BANK };
+				     ACCOUNT: self.Config.BANK
+				     PASSWORD: self.Config.PASSWORD};
 			
 			transfer(data);     
 			
