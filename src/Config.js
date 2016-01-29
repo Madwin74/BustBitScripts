@@ -1,8 +1,9 @@
+var sensitive  = require('../../../sensitive_data/BustABit.data');
 module.exports = {
     GAMESERVER: "https://gs.bustabit.com",
     WEBSERVER: "https://www.bustabit.com",
-    SESSION: "",
-    USER: "",
-    PASSWORD: "", //currently not implemented
-    BANK: "" //currently not implemented
+    SESSION: sensitive.SESSION || "",
+    USER: sensitive.USER || "",
+    PASSWORD: sensitive.PASSWORD || "", //currently not implemented
+    BANK: sensitive.BANK || "" //currently not implemented
 };
