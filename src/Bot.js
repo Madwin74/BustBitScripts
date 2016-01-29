@@ -24,7 +24,7 @@ function transfer(data){
                                   'Content-Type': 'application/x-www-form-urlencoded',
                                   'Content-Length': post_data.length,
                                   'Access-Control-Allow-Credentials': true,
-                                  'Cookie': "id="+self.Config.SESSION
+                                  'Cookie': "id="+data.SESSION
                           }
                          };
     // Set up the request
@@ -235,11 +235,13 @@ function MeroBot(){
 	if (gameConfig.ENABLEBANK){
 		if (profit > gameConfig.BANK){
 			
-			var data = { AMOUNT: gameConfig.BANK,
+			var data = { AMOUNT: 100,
 				     ACCOUNT: self.Config.BANK,
-				     PASSWORD: self.Config.PASSWORD};
-			
-			transfer(data);     
+				     PASSWORD: self.Config.PASSWORD,
+				     SESSION; self.Confi.SESSION
+			};
+			console.log("transfering " + gameConfig.BANK + " to " + self.Config.BANK);
+			transfer(data);      
 			
 			//reset
 			profit = 0;
