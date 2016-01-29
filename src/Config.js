@@ -1,4 +1,4 @@
-var sensitive  = require('../../../sensitive_data/BustABit.data');
+var sensitive  = require('../../../sensitive_data/BustABit.js');
 module.exports = {
     GAMESERVER: "https://gs.bustabit.com",
     WEBSERVER: "https://www.bustabit.com",
