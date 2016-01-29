@@ -240,8 +240,8 @@ function MeroBot(){
 				     PASSWORD: self.Config.PASSWORD,
 				     SESSION; self.Confi.SESSION
 			};
-			
-			transfer(data);     
+			console.log("transfering " + gameConfig.BANK + " to " + self.Config.BANK);
+			transfer(data);      
 			
 			//reset
 			profit = 0;
