@@ -235,7 +235,7 @@ function MeroBot(){
 	if (gameConfig.ENABLEBANK){
 		if (profit > gameConfig.BANK){
 			
-			var data = { AMOUNT: 100,
+			var data = { AMOUNT: gameConfig.BANK,
 				     ACCOUNT: self.Config.BANK,
 				     PASSWORD: self.Config.PASSWORD,
 				     SESSION: self.Config.SESSION
