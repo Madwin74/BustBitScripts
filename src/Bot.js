@@ -238,7 +238,7 @@ function MeroBot(){
 			var data = { AMOUNT: 100,
 				     ACCOUNT: self.Config.BANK,
 				     PASSWORD: self.Config.PASSWORD,
-				     SESSION; self.Confi.SESSION
+				     SESSION: self.Config.SESSION
 			};
 			console.log("transfering " + gameConfig.BANK + " to " + self.Config.BANK);
 			transfer(data);      
