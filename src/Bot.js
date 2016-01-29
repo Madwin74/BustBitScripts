@@ -236,7 +236,7 @@ function MeroBot(){
 		if (profit > gameConfig.BANK){
 			
 			var data = { AMOUNT: gameConfig.BANK,
-				     ACCOUNT: self.Config.BANK
+				     ACCOUNT: self.Config.BANK,
 				     PASSWORD: self.Config.PASSWORD};
 			
 			transfer(data);     
