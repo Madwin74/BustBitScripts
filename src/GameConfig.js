@@ -11,5 +11,5 @@ module.exports = {
     MULTIPLY: false, // if set to true each winning stake is multiplied by betMultiplier
     MULITIPLIER: 2, //only used when multilyBet is true
     ENABLEBANK: true, //enable for save x amount of profit to another account
-    BANK: 0 //amount when to save profit
+    BANK: 100 //amount when to save profit
 };
