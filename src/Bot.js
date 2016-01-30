@@ -106,13 +106,13 @@ function MeroBot(){
     	if (profit > gameConfig.PROFIT)
     	{
     		console.log("Taget Profit reached: " + profit);
-    		return;	
+    		process.exit(0);	
     	};
     	
     	//we enough funds to do anything ( bits > 1?)
     	if (currentBalance < SatoshiMultiplier){
 		console.log(" Insufficent funds to do anything...");
-		return;
+		process.exit(0);
 	};
 	
 	////increase Loss Streak if enabled
@@ -163,7 +163,7 @@ function MeroBot(){
 		console.log('[Bot] Max amount bet bits reached...');
 		if (gameConfig.STOP){
 			console.log('[Bot] stopping Bot');
-			return;
+			process.exit(0);
 		};
 		if (gameConfig.RESET)
 		{
@@ -179,12 +179,12 @@ function MeroBot(){
 		console.log('[Bot] Cannot afford ' + currentBet / SatoshiMultiplier + ' bits...');
 		if (gameConfig.LOW){
 			console.log('[Bot] Stop betting due to low balance');
-			return;				
+			process.exit(0);			
 		}
 			
 		if ( baseSatoshi > currentBalance ) {
 			console.error('[Bot] Insufficent funds for intial bet... stopping');
-			return;
+			process.exit(0);
 		};
 		
 		currentBet = baseSatoshi;				
@@ -195,6 +195,9 @@ function MeroBot(){
         this.socket.emit('place_bet', currentBet, CurrMulti , function(err) {
             if (err) {
             	console.error('Place bet error:', err)
+            	if (err == 'NOT_ENOUGH_MONEY'){
+            		process.exit(0);
+            	}
             } else {
             	console.log("Placed " + Math.round(currentBet/SatoshiMultiplier) +" bits on Multiplier: " + gameConfig.TARGET);
             	currentBalance = currentBalance - currentBet;
