@@ -250,6 +250,10 @@ function MeroBot(){
 			profit = 0;
 			initalBalance = currentBalance;
 			highestBalance = 0;
+			console.log("profit " + profit);
+			console.log("initialBalance " + initialBalance);
+			console.log("currentBalcne " + currentBalance);
+			console.log("highest-balance " + highestBalance);
 		}
 	};	
 	});
