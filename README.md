@@ -13,6 +13,11 @@
 
 ```npm start```
 
+## Troubleshooting
+
+Nothing so far...
+
+
 ## Credits
 
 **Based on [Shiba](https://github.com/moneypot/shiba) and [Dexonbot](https://github.com/Dexon95/Dexonbot)**
