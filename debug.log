@@ -1,0 +1,6459 @@
+
+> MeroBot@1.0.0 start /home/BustABit/BustBitScripts
+> node src/Bot.js
+
+[Bot] ====== Merowinger's BustaBit Script ======[Bot]
+Connected to GameServer
+Connected to WebServer
+Initial Balance: 1594.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.96 WIN
+Session Profit in bits: 0.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 25.59 WIN
+Session Profit in bits: 0.26
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.45 WIN
+Session Profit in bits: 0.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: -0.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.75 WIN
+Session Profit in bits: -0.48
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: -0.22
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 4.84 WIN
+Session Profit in bits: 0.17
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 7.30 WIN
+Session Profit in bits: 0.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 0.82
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.76 WIN
+Session Profit in bits: 0.95
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.26 WIN
+Session Profit in bits: 1.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.30 WIN
+Session Profit in bits: 1.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.63 WIN
+Session Profit in bits: 1.34
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.02 WIN
+Session Profit in bits: 1.47
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.71 WIN
+Session Profit in bits: 1.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.81 WIN
+Session Profit in bits: 1.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.44 WIN
+Session Profit in bits: 1.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.27 WIN
+Session Profit in bits: 1.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 2.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 1.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.98 WIN
+Session Profit in bits: 1.25
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.68 WIN
+Session Profit in bits: 1.51
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.01 WIN
+Session Profit in bits: 1.90
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 57.60 WIN
+Session Profit in bits: 2.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 2.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 2.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 59.74 WIN
+Session Profit in bits: 2.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 2.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 3.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 3.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 2.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.08 WIN
+Session Profit in bits: 2.33
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 2.59
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.25 WIN
+Session Profit in bits: 2.98
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: -1.02
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: -5.02
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: -9.02
+[Bot] We are on a Loss Streak... Cooling down..
+[Bot] Secured your stake for another 2 games
+[Bot] Secured your stake for another 1 games
+[Bot] Secured your stake for another 0 games
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: -8.50
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 13.76 WIN
+Session Profit in bits: -7.85
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.45 WIN
+Session Profit in bits: -7.07
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: -6.16
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 5.57 WIN
+Session Profit in bits: -5.12
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: -3.95
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: -2.65
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 4.11 WIN
+Session Profit in bits: -1.22
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: 0.34
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: -12.66
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: -25.66
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 4.18 WIN
+Session Profit in bits: -23.97
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 10.83 WIN
+Session Profit in bits: -22.15
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 7.11 WIN
+Session Profit in bits: -20.20
+Placed 16 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: -18.12
+Placed 17 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: -15.91
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 24.81 WIN
+Session Profit in bits: -13.57
+Placed 19 bits on Multiplier: 1.13
+Game crashed at 2.02 WIN
+Session Profit in bits: -11.10
+Placed 20 bits on Multiplier: 1.13
+Game crashed at 33.73 WIN
+Session Profit in bits: -8.50
+Placed 21 bits on Multiplier: 1.13
+Game crashed at 2.11 WIN
+Session Profit in bits: -5.77
+Placed 22 bits on Multiplier: 1.13
+Game crashed at 1.94 WIN
+Session Profit in bits: -2.91
+Placed 23 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 0.08
+Placed 24 bits on Multiplier: 1.13
+Game crashed at 2.27 WIN
+Session Profit in bits: 3.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.35 WIN
+Session Profit in bits: 3.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 3.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 3.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.26 WIN
+Session Profit in bits: 3.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.88 WIN
+Session Profit in bits: 3.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 3.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.89 WIN
+Session Profit in bits: 4.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 4.24
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 17.04 WIN
+Session Profit in bits: 4.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.64 WIN
+Session Profit in bits: 4.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 3.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 3.63
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 3.89
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 5.73 WIN
+Session Profit in bits: 4.28
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.43 WIN
+Session Profit in bits: 4.80
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 4.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.09 WIN
+Session Profit in bits: 5.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 5.19
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 5.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.71 WIN
+Session Profit in bits: 5.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 4.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 4.58
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.00 WIN
+Session Profit in bits: 4.84
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 7.92 WIN
+Session Profit in bits: 5.23
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.76 WIN
+Session Profit in bits: 5.75
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.68 WIN
+Session Profit in bits: 5.88
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.09 WIN
+Session Profit in bits: 6.01
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 6.14
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 6.27
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: 6.40
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.66 WIN
+Session Profit in bits: 6.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 6.66
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 6.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: 5.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.69 WIN
+Session Profit in bits: 5.92
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 3.02 WIN
+Session Profit in bits: 6.18
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 40.83 WIN
+Session Profit in bits: 6.57
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 7.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.47 WIN
+Session Profit in bits: 7.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.22 WIN
+Session Profit in bits: 7.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.41 WIN
+Session Profit in bits: 7.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.00 WIN
+Session Profit in bits: 7.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.63 WIN
+Session Profit in bits: 7.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.52 WIN
+Session Profit in bits: 7.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.20 WIN
+Session Profit in bits: 8.00
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.57 WIN
+Session Profit in bits: 8.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 8.26
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 8.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 8.52
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 75.60 WIN
+Session Profit in bits: 8.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.50 WIN
+Session Profit in bits: 8.78
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 8.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 7.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 13.66 WIN
+Session Profit in bits: 8.04
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 3.64 WIN
+Session Profit in bits: 8.30
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 11.54 WIN
+Session Profit in bits: 8.69
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 9.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 9.34
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.01 WIN
+Session Profit in bits: 9.47
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 5.74 WIN
+Session Profit in bits: 9.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.37 WIN
+Session Profit in bits: 9.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.86 WIN
+Session Profit in bits: 9.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.52 WIN
+Session Profit in bits: 9.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 10.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 10.25
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.88 WIN
+Session Profit in bits: 10.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.27 WIN
+Session Profit in bits: 10.51
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.77 WIN
+Session Profit in bits: 10.64
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 10.77
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 10.90
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.90 WIN
+Session Profit in bits: 11.03
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 11.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.76 WIN
+Session Profit in bits: 11.29
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 11.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.82 WIN
+Session Profit in bits: 11.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.29 WIN
+Session Profit in bits: 11.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 11.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.27 WIN
+Session Profit in bits: 11.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.27 WIN
+Session Profit in bits: 12.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.40 WIN
+Session Profit in bits: 12.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 12.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 12.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 12.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 11.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 10.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 10.72
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 4.23 WIN
+Session Profit in bits: 10.98
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 19.14 WIN
+Session Profit in bits: 11.37
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 11.89
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 12.54
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 2.48 WIN
+Session Profit in bits: 13.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.50 WIN
+Session Profit in bits: 13.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.38 WIN
+Session Profit in bits: 13.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 13.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.49 WIN
+Session Profit in bits: 13.84
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 13.97
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.29 WIN
+Session Profit in bits: 14.10
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 61.46 WIN
+Session Profit in bits: 14.23
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.91 WIN
+Session Profit in bits: 14.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 13.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 13.49
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 13.75
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 7.00 WIN
+Session Profit in bits: 14.14
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 10.64 WIN
+Session Profit in bits: 14.66
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.26 WIN
+Session Profit in bits: 14.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.94 WIN
+Session Profit in bits: 14.92
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.33 WIN
+Session Profit in bits: 15.05
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 15.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 15.31
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.74 WIN
+Session Profit in bits: 15.44
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.20 WIN
+Session Profit in bits: 15.57
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.27 WIN
+Session Profit in bits: 15.70
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.06 WIN
+Session Profit in bits: 15.83
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.23 WIN
+Session Profit in bits: 15.96
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.69 WIN
+Session Profit in bits: 16.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.86 WIN
+Session Profit in bits: 16.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 15.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 15.35
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 16.20 WIN
+Session Profit in bits: 15.61
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 16.00
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 16.52
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.32 WIN
+Session Profit in bits: 16.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.64 WIN
+Session Profit in bits: 16.78
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.00 WIN
+Session Profit in bits: 16.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.03 WIN
+Session Profit in bits: 17.04
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.76 WIN
+Session Profit in bits: 17.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 17.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.63 WIN
+Session Profit in bits: 17.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.38 WIN
+Session Profit in bits: 17.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.65 WIN
+Session Profit in bits: 17.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.59 WIN
+Session Profit in bits: 17.82
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 17.95
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 18.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 17.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.82 WIN
+Session Profit in bits: 17.21
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 17.47
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.27 WIN
+Session Profit in bits: 17.86
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.75 WIN
+Session Profit in bits: 18.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 17.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.01 WIN
+Session Profit in bits: 17.51
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 15.51
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 15.77
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.18 WIN
+Session Profit in bits: 16.16
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 12.16
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 12.68
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 10.07 WIN
+Session Profit in bits: 13.33
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 67.55 WIN
+Session Profit in bits: 14.11
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 7.11
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 3.00 WIN
+Session Profit in bits: 8.02
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 13.72 WIN
+Session Profit in bits: 9.06
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 8.15 WIN
+Session Profit in bits: 10.23
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 11.53
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 3.29 WIN
+Session Profit in bits: 12.96
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 0.96
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 2.52
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 19.58 WIN
+Session Profit in bits: 4.21
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 2.62 WIN
+Session Profit in bits: 6.03
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 1.54 WIN
+Session Profit in bits: 7.98
+Placed 16 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 10.06
+Placed 17 bits on Multiplier: 1.13
+Game crashed at 1.69 WIN
+Session Profit in bits: 12.27
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 1.74 WIN
+Session Profit in bits: 14.61
+Placed 19 bits on Multiplier: 1.13
+Game crashed at 2.78 WIN
+Session Profit in bits: 17.08
+Placed 20 bits on Multiplier: 1.13
+Game crashed at 3.49 WIN
+Session Profit in bits: 19.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.36 WIN
+Session Profit in bits: 19.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 19.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.52 WIN
+Session Profit in bits: 20.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.90 WIN
+Session Profit in bits: 20.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.51 WIN
+Session Profit in bits: 20.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 20.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 20.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.53 WIN
+Session Profit in bits: 20.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 20.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.88 WIN
+Session Profit in bits: 20.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 19.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.41 WIN
+Session Profit in bits: 20.11
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 23.15 WIN
+Session Profit in bits: 20.37
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 5.61 WIN
+Session Profit in bits: 20.76
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 16.76
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: 12.76
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 6.23 WIN
+Session Profit in bits: 13.28
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 2.24 WIN
+Session Profit in bits: 13.93
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 7.42 WIN
+Session Profit in bits: 14.71
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 2.62 WIN
+Session Profit in bits: 15.62
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 16.66
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 2.42 WIN
+Session Profit in bits: 17.83
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 3.33 WIN
+Session Profit in bits: 19.13
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 20.56
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 22.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.79 WIN
+Session Profit in bits: 22.25
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: 22.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 21.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.44 WIN
+Session Profit in bits: 21.51
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 19.51
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 3.98 WIN
+Session Profit in bits: 19.77
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 20.16
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 9.47 WIN
+Session Profit in bits: 20.68
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 10.53 WIN
+Session Profit in bits: 21.33
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 5.68 WIN
+Session Profit in bits: 22.11
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 23.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.77 WIN
+Session Profit in bits: 23.15
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 23.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.90 WIN
+Session Profit in bits: 23.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.48 WIN
+Session Profit in bits: 23.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 22.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.44 WIN
+Session Profit in bits: 22.67
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.03 WIN
+Session Profit in bits: 22.93
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.77 WIN
+Session Profit in bits: 23.32
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 19.32
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 19.84
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 20.49
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 21.27
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 22.18
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 23.22
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 4.73 WIN
+Session Profit in bits: 24.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 24.52
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.91 WIN
+Session Profit in bits: 24.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.10 WIN
+Session Profit in bits: 24.78
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.36 WIN
+Session Profit in bits: 24.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 25.04
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.31 WIN
+Session Profit in bits: 25.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.24 WIN
+Session Profit in bits: 25.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.40 WIN
+Session Profit in bits: 25.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 24.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 24.56
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 24.82
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.84 WIN
+Session Profit in bits: 25.21
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.20 WIN
+Session Profit in bits: 25.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 24.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.80 WIN
+Session Profit in bits: 24.86
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 22.86
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.52 WIN
+Session Profit in bits: 23.12
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 5.49 WIN
+Session Profit in bits: 23.51
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 24.03
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 34.87 WIN
+Session Profit in bits: 24.68
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 3.00 WIN
+Session Profit in bits: 25.46
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 26.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 26.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 51.35 WIN
+Session Profit in bits: 26.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 26.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.28 WIN
+Session Profit in bits: 26.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 369.43 WIN
+Session Profit in bits: 27.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: 27.15
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.84 WIN
+Session Profit in bits: 27.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.88 WIN
+Session Profit in bits: 27.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.12 WIN
+Session Profit in bits: 27.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.42 WIN
+Session Profit in bits: 27.67
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.92 WIN
+Session Profit in bits: 27.80
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 27.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.57 WIN
+Session Profit in bits: 28.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.51 WIN
+Session Profit in bits: 28.19
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.23 WIN
+Session Profit in bits: 28.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.17 WIN
+Session Profit in bits: 28.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.67 WIN
+Session Profit in bits: 28.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.35 WIN
+Session Profit in bits: 28.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.22 WIN
+Session Profit in bits: 28.84
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.36 WIN
+Session Profit in bits: 28.97
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.80 WIN
+Session Profit in bits: 29.10
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 29.23
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 16.21 WIN
+Session Profit in bits: 29.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 29.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 29.62
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 28.62
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.92 WIN
+Session Profit in bits: 28.75
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.98 WIN
+Session Profit in bits: 29.01
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.96 WIN
+Session Profit in bits: 29.40
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 153.94 WIN
+Session Profit in bits: 29.92
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.06 WIN
+Session Profit in bits: 30.05
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.95 WIN
+Session Profit in bits: 30.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 29.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 28.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 27.18
+[Bot] We are on a Loss Streak... Cooling down..
+[Bot] Secured your stake for another 2 games
+[Bot] Secured your stake for another 1 games
+[Bot] Secured your stake for another 0 games
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.64 WIN
+Session Profit in bits: 27.31
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 27.57
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 66.15 WIN
+Session Profit in bits: 27.96
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.66 WIN
+Session Profit in bits: 28.48
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 4.49 WIN
+Session Profit in bits: 29.13
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 2.21 WIN
+Session Profit in bits: 29.91
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 28.89 WIN
+Session Profit in bits: 30.82
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.94 WIN
+Session Profit in bits: 30.95
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 31.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.67 WIN
+Session Profit in bits: 31.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.40 WIN
+Session Profit in bits: 31.34
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.66 WIN
+Session Profit in bits: 31.47
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.16 WIN
+Session Profit in bits: 31.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 30.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.70 WIN
+Session Profit in bits: 30.73
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.93 WIN
+Session Profit in bits: 30.99
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 19.43 WIN
+Session Profit in bits: 31.38
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 31.90
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 32.03
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.24 WIN
+Session Profit in bits: 32.16
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 11.07 WIN
+Session Profit in bits: 32.29
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.28 WIN
+Session Profit in bits: 32.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.06 WIN
+Session Profit in bits: 32.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.44 WIN
+Session Profit in bits: 32.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 32.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 31.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 51.25 WIN
+Session Profit in bits: 31.94
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 15.79 WIN
+Session Profit in bits: 32.20
+Placed 3 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 39.88 WIN
+Session Profit in bits: 32.59
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.74 WIN
+Session Profit in bits: 33.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.86 WIN
+Session Profit in bits: 33.24
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.78 WIN
+Session Profit in bits: 33.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.07 WIN
+Session Profit in bits: 33.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.89 WIN
+Session Profit in bits: 33.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 32.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.19 WIN
+Session Profit in bits: 32.76
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 5.15 WIN
+Session Profit in bits: 33.02
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 33.41
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 33.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.91 WIN
+Session Profit in bits: 34.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 33.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 33.19
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 33.45
+Placed 3 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 4.83 WIN
+Session Profit in bits: 33.84
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.77 WIN
+Session Profit in bits: 34.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.81 WIN
+Session Profit in bits: 34.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 33.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.69 WIN
+Session Profit in bits: 33.62
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 31.62
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 31.88
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 28.88
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 29.27
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 25.27
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.54 WIN
+Session Profit in bits: 25.79
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 16.26 WIN
+Session Profit in bits: 26.44
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 3.63 WIN
+Session Profit in bits: 27.22
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 7.34 WIN
+Session Profit in bits: 28.13
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 29.17
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 30.34
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 7.51 WIN
+Session Profit in bits: 31.64
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 4.00 WIN
+Session Profit in bits: 33.07
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 2.55 WIN
+Session Profit in bits: 34.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 34.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 16.40 WIN
+Session Profit in bits: 34.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.34 WIN
+Session Profit in bits: 35.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 13.32 WIN
+Session Profit in bits: 35.15
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.79 WIN
+Session Profit in bits: 35.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 35.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 35.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.26 WIN
+Session Profit in bits: 35.67
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 35.80
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 35.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 36.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 11.29 WIN
+Session Profit in bits: 36.19
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.25 WIN
+Session Profit in bits: 36.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 26.39 WIN
+Session Profit in bits: 36.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.93 WIN
+Session Profit in bits: 36.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 36.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 35.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 34.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 34.84
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 32.84
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 7.35 WIN
+Session Profit in bits: 33.10
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 33.49
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 5.03 WIN
+Session Profit in bits: 34.01
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 25.96 WIN
+Session Profit in bits: 34.66
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 13.79 WIN
+Session Profit in bits: 35.44
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 2.22 WIN
+Session Profit in bits: 36.35
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 3.22 WIN
+Session Profit in bits: 37.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 36.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.21 WIN
+Session Profit in bits: 36.52
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 18.19 WIN
+Session Profit in bits: 36.78
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 8.11 WIN
+Session Profit in bits: 37.17
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.23 WIN
+Session Profit in bits: 37.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 37.82
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 37.95
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 38.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.80 WIN
+Session Profit in bits: 38.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.58 WIN
+Session Profit in bits: 38.34
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 11.11 WIN
+Session Profit in bits: 38.47
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.74 WIN
+Session Profit in bits: 38.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 39.09 WIN
+Session Profit in bits: 38.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.98 WIN
+Session Profit in bits: 38.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.56 WIN
+Session Profit in bits: 38.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.98 WIN
+Session Profit in bits: 39.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.59 WIN
+Session Profit in bits: 39.25
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 39.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.82 WIN
+Session Profit in bits: 39.51
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.43 WIN
+Session Profit in bits: 39.64
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 38.64
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 38.77
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.83 WIN
+Session Profit in bits: 39.03
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 39.42
+Placed 4 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Game crashed at 2.62 WIN
+Session Profit in bits: 39.94
+Connected to WebServer
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.87 WIN
+Session Profit in bits: 40.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.12 WIN
+Session Profit in bits: 40.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.53 WIN
+Session Profit in bits: 40.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.28 WIN
+Session Profit in bits: 40.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.57 WIN
+Session Profit in bits: 40.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.73 WIN
+Session Profit in bits: 40.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 39.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 38.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 38.85
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 8.21 WIN
+Session Profit in bits: 39.11
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.40 WIN
+Session Profit in bits: 39.50
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 11.73 WIN
+Session Profit in bits: 40.02
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 16.25 WIN
+Session Profit in bits: 40.67
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.12 LOST
+Session Profit in bits: 34.67
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 2.49 WIN
+Session Profit in bits: 35.45
+Placed 7 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 5.13 WIN
+Session Profit in bits: 36.36
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 37.40
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 38.57
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 39.87
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 17.40 WIN
+Session Profit in bits: 41.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.69 WIN
+Session Profit in bits: 41.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.37 WIN
+Session Profit in bits: 41.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 40.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.58 WIN
+Session Profit in bits: 40.69
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.74 WIN
+Session Profit in bits: 40.95
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 41.34
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.09 WIN
+Session Profit in bits: 41.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 41.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.22 WIN
+Session Profit in bits: 42.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 41.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.75 WIN
+Session Profit in bits: 41.25
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.56 WIN
+Session Profit in bits: 41.51
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.27 WIN
+Session Profit in bits: 41.90
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.46 WIN
+Session Profit in bits: 42.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.59 WIN
+Session Profit in bits: 42.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.23 WIN
+Session Profit in bits: 42.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 13.46 WIN
+Session Profit in bits: 42.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.54 WIN
+Session Profit in bits: 42.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 43.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.08 WIN
+Session Profit in bits: 43.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 43.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.08 WIN
+Session Profit in bits: 43.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 43.59
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 16.69 WIN
+Session Profit in bits: 43.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 43.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 43.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 43.13 WIN
+Session Profit in bits: 44.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 44.24
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.90 WIN
+Session Profit in bits: 44.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.98 WIN
+Session Profit in bits: 44.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.54 WIN
+Session Profit in bits: 44.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.85 WIN
+Session Profit in bits: 44.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.11 WIN
+Session Profit in bits: 44.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.05 WIN
+Session Profit in bits: 45.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 45.15
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.61 WIN
+Session Profit in bits: 45.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 45.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 44.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 19.74 WIN
+Session Profit in bits: 44.54
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 8.01 WIN
+Session Profit in bits: 44.80
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.58 WIN
+Session Profit in bits: 45.19
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 41.19
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 4.60 WIN
+Session Profit in bits: 41.71
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: 36.71
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 6.14 WIN
+Session Profit in bits: 37.36
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 3.81 WIN
+Session Profit in bits: 38.14
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 4.63 WIN
+Session Profit in bits: 39.05
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: 31.05
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 3.15 WIN
+Session Profit in bits: 32.09
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 33.26
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 23.26
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 24.56
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.93 WIN
+Session Profit in bits: 25.99
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 99.78 WIN
+Session Profit in bits: 27.55
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 29.24
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 1.96 WIN
+Session Profit in bits: 31.06
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 33.01
+Placed 16 bits on Multiplier: 1.13
+Game crashed at 6.74 WIN
+Session Profit in bits: 35.09
+Placed 17 bits on Multiplier: 1.13
+Game crashed at 2.58 WIN
+Session Profit in bits: 37.30
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 19.30
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: 1.30
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 3.64
+Placed 19 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 6.11
+Placed 20 bits on Multiplier: 1.13
+Game crashed at 2.28 WIN
+Session Profit in bits: 8.71
+Placed 21 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 11.44
+Placed 22 bits on Multiplier: 1.13
+Game crashed at 3.21 WIN
+Session Profit in bits: 14.30
+Placed 23 bits on Multiplier: 1.13
+Game crashed at 3.43 WIN
+Session Profit in bits: 17.29
+Placed 24 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: -6.71
+Placed 24 bits on Multiplier: 1.13
+Game crashed at 3.19 WIN
+Session Profit in bits: -3.59
+Placed 25 bits on Multiplier: 1.13
+Game crashed at 2.18 WIN
+Session Profit in bits: -0.34
+Placed 26 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: -26.34
+Placed 26 bits on Multiplier: 1.13
+Game crashed at 8.69 WIN
+Session Profit in bits: -22.96
+Placed 27 bits on Multiplier: 1.13
+Game crashed at 2.95 WIN
+Session Profit in bits: -19.45
+Placed 28 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: -15.81
+Placed 29 bits on Multiplier: 1.13
+Game crashed at 1.95 WIN
+Session Profit in bits: -12.04
+Placed 30 bits on Multiplier: 1.13
+Game crashed at 1.75 WIN
+Session Profit in bits: -8.14
+Placed 31 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: -4.11
+Placed 32 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 0.05
+Placed 33 bits on Multiplier: 1.13
+Game crashed at 6.90 WIN
+Session Profit in bits: 4.34
+Placed 34 bits on Multiplier: 1.13
+Game crashed at 2.01 WIN
+Session Profit in bits: 8.76
+Placed 35 bits on Multiplier: 1.13
+Game crashed at 5.04 WIN
+Session Profit in bits: 13.31
+Placed 36 bits on Multiplier: 1.13
+Game crashed at 5.69 WIN
+Session Profit in bits: 17.99
+Placed 37 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: -19.01
+Placed 37 bits on Multiplier: 1.13
+Game crashed at 3.44 WIN
+Session Profit in bits: -14.20
+Placed 38 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: -9.26
+Placed 39 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: -4.19
+Placed 40 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 1.01
+Placed 41 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 6.34
+Placed 42 bits on Multiplier: 1.13
+Game crashed at 3.38 WIN
+Session Profit in bits: 11.80
+Placed 43 bits on Multiplier: 1.13
+Game crashed at 4.04 WIN
+Session Profit in bits: 17.39
+Placed 44 bits on Multiplier: 1.13
+Game crashed at 4.77 WIN
+Session Profit in bits: 23.11
+Placed 45 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 28.96
+Placed 46 bits on Multiplier: 1.13
+Game crashed at 6.60 WIN
+Session Profit in bits: 34.94
+Placed 47 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: -12.06
+Placed 47 bits on Multiplier: 1.13
+Game crashed at 1.91 WIN
+Session Profit in bits: -5.95
+Placed 48 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: -53.95
+Placed 48 bits on Multiplier: 1.13
+Game crashed at 1.41 WIN
+Session Profit in bits: -47.71
+Placed 49 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: -96.71
+Placed 49 bits on Multiplier: 1.13
+Game crashed at 3.17 WIN
+Session Profit in bits: -90.34
+Placed 50 bits on Multiplier: 1.13
+Game crashed at 7.74 WIN
+Session Profit in bits: -83.84
+Placed 51 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: -77.21
+Placed 52 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: -70.45
+Placed 53 bits on Multiplier: 1.13
+Game crashed at 2.18 WIN
+Session Profit in bits: -63.56
+Placed 54 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: -56.54
+Placed 55 bits on Multiplier: 1.13
+Game crashed at 1.97 WIN
+Session Profit in bits: -49.39
+Placed 56 bits on Multiplier: 1.13
+Game crashed at 2.37 WIN
+Session Profit in bits: -42.11
+Placed 57 bits on Multiplier: 1.13
+Game crashed at 1.53 WIN
+Session Profit in bits: -34.70
+Placed 58 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: -27.16
+Placed 59 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: -19.49
+Placed 60 bits on Multiplier: 1.13
+Game crashed at 4.84 WIN
+Session Profit in bits: -11.69
+Placed 61 bits on Multiplier: 1.13
+Game crashed at 8.51 WIN
+Session Profit in bits: -3.76
+Placed 62 bits on Multiplier: 1.13
+Game crashed at 3.34 WIN
+Session Profit in bits: 4.30
+Placed 63 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: -58.70
+Placed 63 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: -50.51
+Placed 64 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: -42.19
+Placed 65 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: -33.74
+Placed 66 bits on Multiplier: 1.13
+Game crashed at 4.96 WIN
+Session Profit in bits: -25.16
+Placed 67 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: -16.45
+Placed 68 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: -7.61
+Placed 69 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: -76.61
+Placed 69 bits on Multiplier: 1.13
+Game crashed at 1.82 WIN
+Session Profit in bits: -67.64
+Placed 70 bits on Multiplier: 1.13
+Game crashed at 16.57 WIN
+Session Profit in bits: -58.54
+Placed 71 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: -129.54
+Placed 71 bits on Multiplier: 1.13
+Game crashed at 1.56 WIN
+Session Profit in bits: -120.31
+Placed 72 bits on Multiplier: 1.13
+Game crashed at 3.15 WIN
+Session Profit in bits: -110.95
+Placed 73 bits on Multiplier: 1.13
+Game crashed at 3.02 WIN
+Session Profit in bits: -101.46
+Placed 74 bits on Multiplier: 1.13
+Game crashed at 1.41 WIN
+Session Profit in bits: -91.84
+Placed 75 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: -82.09
+Placed 76 bits on Multiplier: 1.13
+Game crashed at 1.91 WIN
+Session Profit in bits: -72.21
+Placed 77 bits on Multiplier: 1.13
+Game crashed at 4.44 WIN
+Session Profit in bits: -62.20
+Placed 78 bits on Multiplier: 1.13
+Game crashed at 2.47 WIN
+Session Profit in bits: -52.06
+Placed 79 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: -41.79
+Placed 80 bits on Multiplier: 1.13
+Game crashed at 1.74 WIN
+Session Profit in bits: -31.39
+Placed 81 bits on Multiplier: 1.13
+Game crashed at 29.26 WIN
+Session Profit in bits: -20.86
+Placed 82 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: -10.20
+Placed 83 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 0.59
+Placed 84 bits on Multiplier: 1.13
+Game crashed at 5.03 WIN
+Session Profit in bits: 11.51
+Placed 85 bits on Multiplier: 1.13
+Game crashed at 3.05 WIN
+Session Profit in bits: 22.56
+Placed 86 bits on Multiplier: 1.13
+Game crashed at 1.88 WIN
+Session Profit in bits: 33.74
+Placed 87 bits on Multiplier: 1.13
+Game crashed at 2.07 WIN
+Session Profit in bits: 45.05
+Placed 88 bits on Multiplier: 1.13
+Game crashed at 7.33 WIN
+Session Profit in bits: 56.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 56.62
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 56.75
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 56.88
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.00 WIN
+Session Profit in bits: 57.01
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.89 WIN
+Session Profit in bits: 57.14
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.03 WIN
+Session Profit in bits: 57.27
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.13 WIN
+Session Profit in bits: 57.40
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 57.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 56.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 56.66
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 3.20 WIN
+Session Profit in bits: 56.92
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: 57.31
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 57.83
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.68 WIN
+Session Profit in bits: 57.96
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.06 WIN
+Session Profit in bits: 58.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.05 WIN
+Session Profit in bits: 58.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.34 WIN
+Session Profit in bits: 58.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 58.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 58.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.90 WIN
+Session Profit in bits: 58.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.40 WIN
+Session Profit in bits: 58.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 57.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.20 WIN
+Session Profit in bits: 58.00
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 52.96 WIN
+Session Profit in bits: 58.26
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 7.10 WIN
+Session Profit in bits: 58.65
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 54.65
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.41 WIN
+Session Profit in bits: 55.17
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 55.82
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 56.60
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 4.24 WIN
+Session Profit in bits: 57.51
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 4.39 WIN
+Session Profit in bits: 58.55
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 2.25 WIN
+Session Profit in bits: 59.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.93 WIN
+Session Profit in bits: 59.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.10 WIN
+Session Profit in bits: 59.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 60.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.81 WIN
+Session Profit in bits: 60.24
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.24 WIN
+Session Profit in bits: 60.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 47.87 WIN
+Session Profit in bits: 60.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.69 WIN
+Session Profit in bits: 60.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 60.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.68 WIN
+Session Profit in bits: 60.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.00 WIN
+Session Profit in bits: 61.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 60.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.91 WIN
+Session Profit in bits: 60.15
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: 60.41
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.03 WIN
+Session Profit in bits: 60.80
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 61.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.42 WIN
+Session Profit in bits: 61.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 61.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.44 WIN
+Session Profit in bits: 61.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.21 WIN
+Session Profit in bits: 61.84
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 61.97
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 62.10
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.13 WIN
+Session Profit in bits: 62.23
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.26 WIN
+Session Profit in bits: 62.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.74 WIN
+Session Profit in bits: 62.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 61.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 61.62
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 59.62
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 59.88
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 60.27
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 149.64 WIN
+Session Profit in bits: 60.79
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 5.85 WIN
+Session Profit in bits: 61.44
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 2.97 WIN
+Session Profit in bits: 62.22
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 3.70 WIN
+Session Profit in bits: 63.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.25 WIN
+Session Profit in bits: 63.26
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 63.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.84 WIN
+Session Profit in bits: 63.52
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.78 WIN
+Session Profit in bits: 63.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 63.78
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.33 WIN
+Session Profit in bits: 63.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 64.04
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.68 WIN
+Session Profit in bits: 64.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.95 WIN
+Session Profit in bits: 64.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.62 WIN
+Session Profit in bits: 64.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 63.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 45.20 WIN
+Session Profit in bits: 63.56
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 22.00 WIN
+Session Profit in bits: 63.82
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 64.21
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 64.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.87 WIN
+Session Profit in bits: 64.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.86 WIN
+Session Profit in bits: 64.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.85 WIN
+Session Profit in bits: 65.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.38 WIN
+Session Profit in bits: 65.25
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 65.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.34 WIN
+Session Profit in bits: 65.51
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 65.64
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 65.77
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.69 WIN
+Session Profit in bits: 65.90
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 66.03
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.16 WIN
+Session Profit in bits: 66.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 66.29
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 66.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 65.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 65.55
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 65.81
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 66.20
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: 62.20
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 7.53 WIN
+Session Profit in bits: 62.72
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 63.37
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 64.15
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 5.85 WIN
+Session Profit in bits: 65.06
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 57.06
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 49.06
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.12 LOST
+Session Profit in bits: 41.06
+[Bot] We are on a Loss Streak... Cooling down..
+[Bot] Secured your stake for another 2 games
+[Bot] Secured your stake for another 1 games
+[Bot] Secured your stake for another 0 games
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.64 WIN
+Session Profit in bits: 42.10
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 2.18 WIN
+Session Profit in bits: 43.27
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 44.57
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 2.20 WIN
+Session Profit in bits: 46.00
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 2.44 WIN
+Session Profit in bits: 47.56
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: 49.25
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 3.52 WIN
+Session Profit in bits: 51.07
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 36.07
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 38.02
+Placed 16 bits on Multiplier: 1.13
+Game crashed at 2.08 WIN
+Session Profit in bits: 40.10
+Placed 17 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 42.31
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 44.65
+Placed 19 bits on Multiplier: 1.13
+Game crashed at 2.50 WIN
+Session Profit in bits: 47.12
+Placed 20 bits on Multiplier: 1.13
+Game crashed at 3.68 WIN
+Session Profit in bits: 49.72
+Placed 21 bits on Multiplier: 1.13
+Game crashed at 2.09 WIN
+Session Profit in bits: 52.45
+Placed 22 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 30.45
+Placed 22 bits on Multiplier: 1.13
+Game crashed at 3.32 WIN
+Session Profit in bits: 33.31
+Placed 23 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 10.31
+Placed 23 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: -12.69
+Placed 23 bits on Multiplier: 1.13
+Game crashed at 2.55 WIN
+Session Profit in bits: -9.70
+Placed 24 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: -6.58
+Placed 25 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: -3.33
+Placed 26 bits on Multiplier: 1.13
+Game crashed at 4.72 WIN
+Session Profit in bits: 0.05
+Placed 27 bits on Multiplier: 1.13
+Game crashed at 8.43 WIN
+Session Profit in bits: 3.56
+Placed 28 bits on Multiplier: 1.13
+Game crashed at 2.84 WIN
+Session Profit in bits: 7.20
+Placed 29 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 10.97
+Placed 30 bits on Multiplier: 1.13
+Game crashed at 2.08 WIN
+Session Profit in bits: 14.87
+Placed 31 bits on Multiplier: 1.13
+Game crashed at 4.11 WIN
+Session Profit in bits: 18.90
+Placed 32 bits on Multiplier: 1.13
+Game crashed at 3.64 WIN
+Session Profit in bits: 23.06
+Placed 33 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 3.58 WIN
+Session Profit in bits: 27.35
+Placed 34 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 31.77
+Placed 35 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: -3.23
+Placed 35 bits on Multiplier: 1.13
+Game crashed at 1.96 WIN
+Session Profit in bits: 1.32
+Placed 36 bits on Multiplier: 1.13
+Game crashed at 2.16 WIN
+Session Profit in bits: 6.00
+Placed 37 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 10.81
+Placed 38 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 15.75
+Placed 39 bits on Multiplier: 1.13
+Game crashed at 2.09 WIN
+Session Profit in bits: 20.82
+Placed 40 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 26.02
+Placed 41 bits on Multiplier: 1.13
+Game crashed at 3.37 WIN
+Session Profit in bits: 31.35
+Placed 42 bits on Multiplier: 1.13
+Game crashed at 2.83 WIN
+Session Profit in bits: 36.81
+Placed 43 bits on Multiplier: 1.13
+Game crashed at 5.02 WIN
+Session Profit in bits: 42.40
+Placed 44 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 2.46 WIN
+Session Profit in bits: 48.12
+Placed 45 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 53.97
+Placed 46 bits on Multiplier: 1.13
+Game crashed at 31.42 WIN
+Session Profit in bits: 59.95
+Placed 47 bits on Multiplier: 1.13
+Game crashed at 2.53 WIN
+Session Profit in bits: 66.06
+Placed 48 bits on Multiplier: 1.13
+Game crashed at 2.22 WIN
+Session Profit in bits: 72.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.09 WIN
+Session Profit in bits: 72.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.51 WIN
+Session Profit in bits: 72.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 72.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.12 LOST
+Session Profit in bits: 71.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.11 WIN
+Session Profit in bits: 71.82
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.05 LOST
+Session Profit in bits: 69.82
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 12.96 WIN
+Session Profit in bits: 70.08
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 70.47
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.64 WIN
+Session Profit in bits: 70.99
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 65.99
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 3.41 WIN
+Session Profit in bits: 66.64
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 4.32 WIN
+Session Profit in bits: 67.42
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 68.33
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 4.58 WIN
+Session Profit in bits: 69.37
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 60.37
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 20.05 WIN
+Session Profit in bits: 61.54
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 2.84 WIN
+Session Profit in bits: 62.84
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.41 WIN
+Session Profit in bits: 64.27
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 65.83
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 52.83
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 54.52
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 2.30 WIN
+Session Profit in bits: 56.34
+Placed 15 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 58.29
+Placed 16 bits on Multiplier: 1.13
+Game crashed at 1.66 WIN
+Session Profit in bits: 60.37
+Placed 17 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 62.58
+Placed 18 bits on Multiplier: 1.13
+Game crashed at 1.76 WIN
+Session Profit in bits: 64.92
+Placed 19 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 67.39
+Placed 20 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 69.99
+Placed 21 bits on Multiplier: 1.13
+Game crashed at 5.98 WIN
+Session Profit in bits: 72.72
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.05 WIN
+Session Profit in bits: 72.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.98 WIN
+Session Profit in bits: 72.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 71.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.28 WIN
+Session Profit in bits: 72.11
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 8.75 WIN
+Session Profit in bits: 72.37
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 72.76
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 3.12 WIN
+Session Profit in bits: 73.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.71 WIN
+Session Profit in bits: 73.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.31 WIN
+Session Profit in bits: 73.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.43 WIN
+Session Profit in bits: 73.67
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.61 WIN
+Session Profit in bits: 73.80
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.21 WIN
+Session Profit in bits: 73.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 74.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 73.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 73.19
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 73.45
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.47 WIN
+Session Profit in bits: 73.84
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: 74.36
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 74.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.32 WIN
+Session Profit in bits: 74.62
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 74.75
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.88 WIN
+Session Profit in bits: 74.88
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 55.03 WIN
+Session Profit in bits: 75.01
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 75.14
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.28 WIN
+Session Profit in bits: 75.27
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 32.86 WIN
+Session Profit in bits: 75.40
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.68 WIN
+Session Profit in bits: 75.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 74.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 74.66
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 72.66
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 70.66
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 4.05 WIN
+Session Profit in bits: 70.92
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.81 WIN
+Session Profit in bits: 71.31
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 71.83
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 2.99 WIN
+Session Profit in bits: 72.48
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 2.80 WIN
+Session Profit in bits: 73.26
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 4.78 WIN
+Session Profit in bits: 74.17
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 75.21
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 6.00 WIN
+Session Profit in bits: 76.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 76.51
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.74 WIN
+Session Profit in bits: 76.64
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 44.90 WIN
+Session Profit in bits: 76.77
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.67 WIN
+Session Profit in bits: 76.90
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 77.03
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 77.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 76.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 55.36 WIN
+Session Profit in bits: 76.29
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 6.87 WIN
+Session Profit in bits: 76.55
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 4.15 WIN
+Session Profit in bits: 76.94
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 8.59 WIN
+Session Profit in bits: 77.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 76.46
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 76.59
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 4.26 WIN
+Session Profit in bits: 76.85
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.53 WIN
+Session Profit in bits: 77.24
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 77.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.98 WIN
+Session Profit in bits: 77.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 17.75 WIN
+Session Profit in bits: 78.02
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.48 WIN
+Session Profit in bits: 78.15
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.45 WIN
+Session Profit in bits: 78.28
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.10 WIN
+Session Profit in bits: 78.41
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.17 WIN
+Session Profit in bits: 78.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 78.67
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.88 WIN
+Session Profit in bits: 78.80
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 78.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 79.06
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 79.19
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.87 WIN
+Session Profit in bits: 79.32
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 79.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.98 WIN
+Session Profit in bits: 79.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.68 WIN
+Session Profit in bits: 79.71
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.64 WIN
+Session Profit in bits: 79.84
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 79.97
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.07 WIN
+Session Profit in bits: 80.10
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 80.23
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 79.23
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.40 WIN
+Session Profit in bits: 79.36
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 3.66 WIN
+Session Profit in bits: 79.62
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 80.01
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 20.66 WIN
+Session Profit in bits: 80.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.33 WIN
+Session Profit in bits: 80.66
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.30 WIN
+Session Profit in bits: 80.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 80.92
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 81.05
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.76 WIN
+Session Profit in bits: 81.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.26 WIN
+Session Profit in bits: 81.31
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 81.44
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.02 WIN
+Session Profit in bits: 81.57
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.95 WIN
+Session Profit in bits: 81.70
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 68.13 WIN
+Session Profit in bits: 81.83
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 81.96
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 82.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 82.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 82.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.10 WIN
+Session Profit in bits: 82.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.40 WIN
+Session Profit in bits: 82.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.75 WIN
+Session Profit in bits: 82.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 82.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 83.00
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 83.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 82.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.83 WIN
+Session Profit in bits: 82.26
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.58 WIN
+Session Profit in bits: 82.52
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 82.91
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 78.91
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 79.43
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 14.98 WIN
+Session Profit in bits: 80.08
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 74.08
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 74.86
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 2.01 WIN
+Session Profit in bits: 75.77
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 76.81
+Placed 9 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 2.15 WIN
+Session Profit in bits: 77.98
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.90 WIN
+Session Profit in bits: 79.28
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 88.07 WIN
+Session Profit in bits: 80.71
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 8.82 WIN
+Session Profit in bits: 82.27
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 3.96 WIN
+Session Profit in bits: 83.96
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 2.19 WIN
+Session Profit in bits: 84.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.76 WIN
+Session Profit in bits: 84.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.35 WIN
+Session Profit in bits: 84.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.54 WIN
+Session Profit in bits: 84.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.90 WIN
+Session Profit in bits: 84.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 84.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 83.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.69 WIN
+Session Profit in bits: 83.87
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 84.13
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 84.52
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 85.04
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 116.18 WIN
+Session Profit in bits: 85.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 85.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.29 WIN
+Session Profit in bits: 85.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.63 WIN
+Session Profit in bits: 85.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 84.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 84.69
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 82.69
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 82.95
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 7.02 WIN
+Session Profit in bits: 83.34
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 83.86
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 78.86
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 14.33 WIN
+Session Profit in bits: 79.51
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 80.29
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 22.21 WIN
+Session Profit in bits: 81.20
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 3.24 WIN
+Session Profit in bits: 82.24
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 83.41
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 84.71
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.77 WIN
+Session Profit in bits: 86.14
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.98 WIN
+Session Profit in bits: 86.27
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 86.40
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 85.40
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.71 WIN
+Session Profit in bits: 85.53
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 5.99 WIN
+Session Profit in bits: 85.79
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.94 WIN
+Session Profit in bits: 86.18
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 12.87 WIN
+Session Profit in bits: 86.70
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.40 WIN
+Session Profit in bits: 86.83
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: 86.96
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.98 WIN
+Session Profit in bits: 87.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.34 WIN
+Session Profit in bits: 87.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.46 WIN
+Session Profit in bits: 87.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.53 WIN
+Session Profit in bits: 87.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.97 WIN
+Session Profit in bits: 87.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.82 WIN
+Session Profit in bits: 87.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.59 WIN
+Session Profit in bits: 87.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 88.00
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.61 WIN
+Session Profit in bits: 88.13
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 88.26
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.17 WIN
+Session Profit in bits: 88.39
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.78 WIN
+Session Profit in bits: 88.52
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.64 WIN
+Session Profit in bits: 88.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.59 WIN
+Session Profit in bits: 88.78
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 88.91
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.83 WIN
+Session Profit in bits: 89.04
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.00 WIN
+Session Profit in bits: 89.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.29 WIN
+Session Profit in bits: 89.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 89.43
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.71 WIN
+Session Profit in bits: 89.56
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 89.69
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 89.82
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.35 WIN
+Session Profit in bits: 89.95
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.68 WIN
+Session Profit in bits: 90.08
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.41 WIN
+Session Profit in bits: 90.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 89.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 88.21
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.37 WIN
+Session Profit in bits: 88.34
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 88.60
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 88.99
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 7.41 WIN
+Session Profit in bits: 89.51
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 90.16
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.45 WIN
+Session Profit in bits: 90.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.94 WIN
+Session Profit in bits: 91.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 47.05 WIN
+Session Profit in bits: 91.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 90.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 89.20
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 89.33
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 89.59
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 86.59
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 4.32 WIN
+Session Profit in bits: 86.98
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 87.50
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 88.15
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 6.20 WIN
+Session Profit in bits: 88.93
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 81.93
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 6.68 WIN
+Session Profit in bits: 82.84
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 2.56 WIN
+Session Profit in bits: 83.88
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 85.05
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 2.85 WIN
+Session Profit in bits: 86.35
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 87.78
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 3.13 WIN
+Session Profit in bits: 89.34
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 2.09 WIN
+Session Profit in bits: 91.03
+Placed 14 bits on Multiplier: 1.13
+Game crashed at 604.59 WIN
+Session Profit in bits: 92.85
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.71 WIN
+Session Profit in bits: 92.98
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 93.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 92.11
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.33 WIN
+Session Profit in bits: 92.24
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 6.45 WIN
+Session Profit in bits: 92.50
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 89.50
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 89.89
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 90.41
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 91.06
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 4.02 WIN
+Session Profit in bits: 91.84
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.64 WIN
+Session Profit in bits: 92.75
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 93.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.03 WIN
+Session Profit in bits: 93.92
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.65 WIN
+Session Profit in bits: 94.05
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.11 WIN
+Session Profit in bits: 94.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.88 WIN
+Session Profit in bits: 94.31
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.79 WIN
+Session Profit in bits: 94.44
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.96 WIN
+Session Profit in bits: 94.57
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 94.70
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.06 WIN
+Session Profit in bits: 94.83
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.54 WIN
+Session Profit in bits: 94.96
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.78 WIN
+Session Profit in bits: 95.09
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.81 WIN
+Session Profit in bits: 95.22
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.39 WIN
+Session Profit in bits: 95.35
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 218.62 WIN
+Session Profit in bits: 95.48
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.05 WIN
+Session Profit in bits: 95.61
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.05 WIN
+Session Profit in bits: 95.74
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.55 WIN
+Session Profit in bits: 95.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 94.87
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 24.14 WIN
+Session Profit in bits: 95.00
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 95.26
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.86 WIN
+Session Profit in bits: 95.65
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 96.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 95.17
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.67 WIN
+Session Profit in bits: 95.30
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 95.56
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 5.79 WIN
+Session Profit in bits: 95.95
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 18.13 WIN
+Session Profit in bits: 96.47
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.85 WIN
+Session Profit in bits: 96.60
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 96.73
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.52 WIN
+Session Profit in bits: 96.86
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 96.99
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 97.12
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.10 WIN
+Session Profit in bits: 97.25
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 52.32 WIN
+Session Profit in bits: 97.38
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.34 WIN
+Session Profit in bits: 97.51
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 17.64 WIN
+Session Profit in bits: 97.64
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 4.07 WIN
+Session Profit in bits: 97.77
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.76 WIN
+Session Profit in bits: 97.90
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 98.03
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.82 WIN
+Session Profit in bits: 98.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.19 WIN
+Session Profit in bits: 98.29
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.67 WIN
+Session Profit in bits: 98.42
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 98.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.84 WIN
+Session Profit in bits: 98.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.11 WIN
+Session Profit in bits: 98.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.85 WIN
+Session Profit in bits: 98.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.76 WIN
+Session Profit in bits: 99.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 98.07
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.56 WIN
+Session Profit in bits: 98.20
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 98.46
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 11.71 WIN
+Session Profit in bits: 98.85
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 26.40 WIN
+Session Profit in bits: 99.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.16 WIN
+Session Profit in bits: 99.50
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.09 WIN
+Session Profit in bits: 99.63
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 51.92 WIN
+Session Profit in bits: 99.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.01 WIN
+Session Profit in bits: 99.89
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.07 WIN
+Session Profit in bits: 100.02
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169432
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 100.15
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169445
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 75.29 WIN
+Session Profit in bits: 100.28
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169458
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.85 WIN
+Session Profit in bits: 100.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169471
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.01 WIN
+Session Profit in bits: 100.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169484
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 100.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169497
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.44 WIN
+Session Profit in bits: 100.80
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169510
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.54 WIN
+Session Profit in bits: 100.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169523
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 101.06
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169536
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 16.87 WIN
+Session Profit in bits: 101.19
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169549
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 101.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169562
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 13.17 WIN
+Session Profit in bits: 101.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169575
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.98 WIN
+Session Profit in bits: 101.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169588
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.46 WIN
+Session Profit in bits: 101.71
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169601
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 101.84
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169614
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.55 WIN
+Session Profit in bits: 101.97
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169627
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 24.27 WIN
+Session Profit in bits: 102.10
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169640
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 102.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169653
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 102.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169666
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 102.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169679
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 102.62
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169692
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 102.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169705
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 102.88
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169718
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.39 WIN
+Session Profit in bits: 103.01
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169731
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.02 WIN
+Session Profit in bits: 103.14
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169744
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.14 WIN
+Session Profit in bits: 103.27
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169757
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.86 WIN
+Session Profit in bits: 103.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169770
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.93 WIN
+Session Profit in bits: 103.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169783
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.43 WIN
+Session Profit in bits: 103.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169796
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 103.79
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169809
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 103.92
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169822
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.05 WIN
+Session Profit in bits: 104.05
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169835
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 103.05
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169735
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 103.18
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169748
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 103.31
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169761
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 103.44
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169774
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.66 WIN
+Session Profit in bits: 103.57
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169787
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 102.57
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169687
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.48 WIN
+Session Profit in bits: 102.70
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169700
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 101.70
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169600
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.28 WIN
+Session Profit in bits: 101.83
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169613
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.43 WIN
+Session Profit in bits: 101.96
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169626
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 102.09
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169639
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.73 WIN
+Session Profit in bits: 102.22
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169652
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 11.72 WIN
+Session Profit in bits: 102.35
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169665
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 102.48
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169678
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.36 WIN
+Session Profit in bits: 102.61
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169691
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.41 WIN
+Session Profit in bits: 102.74
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169704
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 101.74
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169604
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.59 WIN
+Session Profit in bits: 101.87
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169617
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.78 WIN
+Session Profit in bits: 102.00
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169630
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.82 WIN
+Session Profit in bits: 102.13
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169643
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 102.26
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169656
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.06 WIN
+Session Profit in bits: 102.39
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169669
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.06 WIN
+Session Profit in bits: 102.52
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169682
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.50 WIN
+Session Profit in bits: 102.65
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169695
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.11 WIN
+Session Profit in bits: 102.78
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169708
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: 102.91
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169721
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 23.36 WIN
+Session Profit in bits: 103.04
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169734
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.55 WIN
+Session Profit in bits: 103.17
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169747
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.75 WIN
+Session Profit in bits: 103.30
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169760
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.05 WIN
+Session Profit in bits: 103.43
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169773
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 102.43
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169673
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.83 WIN
+Session Profit in bits: 102.56
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169686
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 102.69
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169699
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 101.69
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169599
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.59 WIN
+Session Profit in bits: 101.82
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169612
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.48 WIN
+Session Profit in bits: 101.95
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169625
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.83 WIN
+Session Profit in bits: 102.08
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169638
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.93 WIN
+Session Profit in bits: 102.21
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169651
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.54 WIN
+Session Profit in bits: 102.34
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169664
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.31 WIN
+Session Profit in bits: 102.47
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169677
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 34.06 WIN
+Session Profit in bits: 102.60
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169690
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.29 WIN
+Session Profit in bits: 102.73
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169703
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 102.86
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169716
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 101.86
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169616
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.70 WIN
+Session Profit in bits: 101.99
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169629
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.76 WIN
+Session Profit in bits: 102.12
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169642
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 102.25
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169655
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.65 WIN
+Session Profit in bits: 102.38
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169668
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 101.38
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169568
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.86 WIN
+Session Profit in bits: 101.51
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169581
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 100.51
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169481
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.79 WIN
+Session Profit in bits: 100.64
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169494
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 100.77
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169507
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.92 WIN
+Session Profit in bits: 100.90
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169520
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 23.14 WIN
+Session Profit in bits: 101.03
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169533
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.33 WIN
+Session Profit in bits: 101.16
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169546
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 11.64 WIN
+Session Profit in bits: 101.29
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169559
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.75 WIN
+Session Profit in bits: 101.42
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169572
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.75 WIN
+Session Profit in bits: 101.55
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169585
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 100.55
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169485
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.52 WIN
+Session Profit in bits: 100.68
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169498
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 100.81
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169511
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.77 WIN
+Session Profit in bits: 100.94
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169524
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 289.60 WIN
+Session Profit in bits: 101.07
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169537
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 101.20
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169550
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 101.33
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169563
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 101.46
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169576
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.75 WIN
+Session Profit in bits: 101.59
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169589
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 15.76 WIN
+Session Profit in bits: 101.72
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169602
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 101.85
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169615
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.63 WIN
+Session Profit in bits: 101.98
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169628
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.54 WIN
+Session Profit in bits: 102.11
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169641
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 16.95 WIN
+Session Profit in bits: 102.24
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169654
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.19 WIN
+Session Profit in bits: 102.37
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169667
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.67 WIN
+Session Profit in bits: 102.50
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169680
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.98 WIN
+Session Profit in bits: 102.63
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169693
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.02 WIN
+Session Profit in bits: 102.76
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169706
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 102.89
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169719
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 103.02
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169732
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.72 WIN
+Session Profit in bits: 103.15
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169745
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.01 WIN
+Session Profit in bits: 103.28
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169758
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 82.83 WIN
+Session Profit in bits: 103.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169771
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 102.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169671
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 101.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169571
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.77 WIN
+Session Profit in bits: 101.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169584
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.74 WIN
+Session Profit in bits: 101.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169597
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 100.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169497
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.49 WIN
+Session Profit in bits: 100.80
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169510
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: 100.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169523
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.80 WIN
+Session Profit in bits: 101.06
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169536
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.86 WIN
+Session Profit in bits: 101.19
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169549
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.86 WIN
+Session Profit in bits: 101.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169562
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.49 WIN
+Session Profit in bits: 101.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169575
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 22.05 WIN
+Session Profit in bits: 101.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169588
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 100.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169488
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 54.22 WIN
+Session Profit in bits: 100.71
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169501
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 100.84
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169514
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 100.97
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169527
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 101.10
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169540
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 101.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169553
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: 101.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169566
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.41 WIN
+Session Profit in bits: 101.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169579
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: 101.62
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169592
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: 101.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169605
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 100.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169505
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 100.88
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169518
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 101.01
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169531
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.79 WIN
+Session Profit in bits: 101.14
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169544
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.88 WIN
+Session Profit in bits: 101.27
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169557
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 22.96 WIN
+Session Profit in bits: 101.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169570
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.01 LOST
+Session Profit in bits: 100.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169470
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 100.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169483
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 99.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 98.53
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.53 WIN
+Session Profit in bits: 98.66
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 98.92
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 95.92
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 96.31
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 96.83
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 2.50 WIN
+Session Profit in bits: 97.48
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 98.26
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 2.07 WIN
+Session Profit in bits: 99.17
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 100.21
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169451
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 10.07 WIN
+Session Profit in bits: 100.34
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169464
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.82 WIN
+Session Profit in bits: 100.47
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169477
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 99.47
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.62 WIN
+Session Profit in bits: 99.60
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.94 WIN
+Session Profit in bits: 99.86
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 2.02 WIN
+Session Profit in bits: 100.25
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169455
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 100.38
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169468
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.83 WIN
+Session Profit in bits: 100.51
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169481
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 100.64
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169494
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.59 WIN
+Session Profit in bits: 100.77
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169507
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.28 WIN
+Session Profit in bits: 100.90
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169520
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.74 WIN
+Session Profit in bits: 101.03
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169533
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.07 WIN
+Session Profit in bits: 101.16
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169546
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 101.29
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169559
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.00 WIN
+Session Profit in bits: 101.42
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169572
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.53 WIN
+Session Profit in bits: 101.55
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169585
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.12 LOST
+Session Profit in bits: 100.55
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169485
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 99.55
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.50 WIN
+Session Profit in bits: 99.68
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.57 WIN
+Session Profit in bits: 99.81
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.29 WIN
+Session Profit in bits: 99.94
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.45 WIN
+Session Profit in bits: 100.07
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169437
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 100.20
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169450
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.04 WIN
+Session Profit in bits: 100.33
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169463
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 99.33
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.70 WIN
+Session Profit in bits: 99.46
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 9.29 WIN
+Session Profit in bits: 99.72
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 5.59 WIN
+Session Profit in bits: 100.11
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169441
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 14.42 WIN
+Session Profit in bits: 100.24
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169454
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.94 WIN
+Session Profit in bits: 100.37
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169467
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 99.37
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.76 WIN
+Session Profit in bits: 99.50
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 99.76
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.65 WIN
+Session Profit in bits: 100.15
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169445
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 39.87 WIN
+Session Profit in bits: 100.28
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169458
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.74 WIN
+Session Profit in bits: 100.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169471
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.61 WIN
+Session Profit in bits: 100.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169484
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.67 WIN
+Session Profit in bits: 100.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169497
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.94 WIN
+Session Profit in bits: 100.80
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169510
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.50 WIN
+Session Profit in bits: 100.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169523
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.48 WIN
+Session Profit in bits: 101.06
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169536
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.96 WIN
+Session Profit in bits: 101.19
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169549
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.02 WIN
+Session Profit in bits: 101.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169562
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.33 WIN
+Session Profit in bits: 101.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169575
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.59 WIN
+Session Profit in bits: 101.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169588
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.76 WIN
+Session Profit in bits: 101.71
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169601
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.73 WIN
+Session Profit in bits: 101.84
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169614
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.35 WIN
+Session Profit in bits: 101.97
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169627
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.86 WIN
+Session Profit in bits: 102.10
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169640
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.45 WIN
+Session Profit in bits: 102.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169653
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 18.53 WIN
+Session Profit in bits: 102.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169666
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.97 WIN
+Session Profit in bits: 102.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169679
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.99 WIN
+Session Profit in bits: 102.62
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169692
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.65 WIN
+Session Profit in bits: 102.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169705
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 102.88
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169718
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.83 WIN
+Session Profit in bits: 103.01
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169731
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 103.14
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169744
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 103.27
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169757
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 103.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169770
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.95 WIN
+Session Profit in bits: 103.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169783
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 102.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169683
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 102.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169696
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 101.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169596
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 100.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169496
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.95 WIN
+Session Profit in bits: 100.79
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169509
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 99.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.64 WIN
+Session Profit in bits: 99.92
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 4.42 WIN
+Session Profit in bits: 100.18
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169448
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 100.31
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169461
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 99.31
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 98.31
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 98.44
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 98.70
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.38 WIN
+Session Profit in bits: 99.09
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.11 LOST
+Session Profit in bits: 95.09
+Placed 4 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 8.77 WIN
+Session Profit in bits: 95.61
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 10.54 WIN
+Session Profit in bits: 96.26
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 37.19 WIN
+Session Profit in bits: 97.04
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 97.95
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 98.99
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.72 WIN
+Session Profit in bits: 100.16
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169446
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 99.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 98.16
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.23 WIN
+Session Profit in bits: 98.29
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 98.55
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.18 WIN
+Session Profit in bits: 98.94
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 99.46
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 100.11
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169441
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.26 WIN
+Session Profit in bits: 100.24
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169454
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.46 WIN
+Session Profit in bits: 100.37
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169467
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.69 WIN
+Session Profit in bits: 100.50
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169480
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.65 WIN
+Session Profit in bits: 100.63
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169493
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 45.46 WIN
+Session Profit in bits: 100.76
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169506
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 99.76
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.14 WIN
+Session Profit in bits: 99.89
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 10.32 WIN
+Session Profit in bits: 100.15
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169445
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.04 WIN
+Session Profit in bits: 100.28
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169458
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.56 WIN
+Session Profit in bits: 100.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169471
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.88 WIN
+Session Profit in bits: 100.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169484
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 100.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169497
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.42 WIN
+Session Profit in bits: 100.80
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169510
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.43 WIN
+Session Profit in bits: 100.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169523
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 99.93
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.30 WIN
+Session Profit in bits: 100.06
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169436
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.61 WIN
+Session Profit in bits: 100.19
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169449
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 27.49 WIN
+Session Profit in bits: 100.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169462
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.55 WIN
+Session Profit in bits: 100.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169475
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 99.45
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.49 WIN
+Session Profit in bits: 99.58
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 100.62 WIN
+Session Profit in bits: 99.84
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 100.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169453
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.01 WIN
+Session Profit in bits: 100.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169466
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.19 WIN
+Session Profit in bits: 100.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169479
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 99.49
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.61 WIN
+Session Profit in bits: 99.62
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: 99.88
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 96.88
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.66 WIN
+Session Profit in bits: 97.27
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 2.33 WIN
+Session Profit in bits: 97.79
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 2.00 WIN
+Session Profit in bits: 98.44
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.65 WIN
+Session Profit in bits: 99.22
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 28.79 WIN
+Session Profit in bits: 100.13
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169443
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 100.26
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169456
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.79 WIN
+Session Profit in bits: 100.39
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169469
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.25 WIN
+Session Profit in bits: 100.52
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169482
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.75 WIN
+Session Profit in bits: 100.65
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169495
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 99.65
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.51 WIN
+Session Profit in bits: 99.78
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.79 WIN
+Session Profit in bits: 100.04
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169434
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.69 WIN
+Session Profit in bits: 100.17
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169447
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 100.30
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169460
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 99.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.09 LOST
+Session Profit in bits: 98.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 97.30
+[Bot] We are on a Loss Streak... Cooling down..
+[Bot] Secured your stake for another 2 games
+[Bot] Secured your stake for another 1 games
+[Bot] Secured your stake for another 0 games
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 96.30
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 96.43
+Placed 2 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Game crashed at 1.24 WIN
+Session Profit in bits: 96.69
+Connected to WebServer
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 39.82 WIN
+Session Profit in bits: 97.08
+Placed 4 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 1.50 WIN
+Session Profit in bits: 97.60
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 1.39 WIN
+Session Profit in bits: 98.25
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 3.35 WIN
+Session Profit in bits: 99.03
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 4.54 WIN
+Session Profit in bits: 99.94
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 4.67 WIN
+Session Profit in bits: 100.98
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169528
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.58 WIN
+Session Profit in bits: 101.11
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169541
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.30 WIN
+Session Profit in bits: 101.24
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169554
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.46 WIN
+Session Profit in bits: 101.37
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169567
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.72 WIN
+Session Profit in bits: 101.50
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169580
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.96 WIN
+Session Profit in bits: 101.63
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169593
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.42 WIN
+Session Profit in bits: 101.76
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169606
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: 100.76
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169506
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 100.89
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169519
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.33 WIN
+Session Profit in bits: 101.02
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169532
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.12 LOST
+Session Profit in bits: 100.02
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169432
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.44 WIN
+Session Profit in bits: 100.15
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169445
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 100.28
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169458
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.23 WIN
+Session Profit in bits: 100.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169471
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 100.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169484
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 99.54
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.28 WIN
+Session Profit in bits: 99.67
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 99.93
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 100.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169462
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 100.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169475
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.79 WIN
+Session Profit in bits: 100.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169488
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: 99.58
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.17 WIN
+Session Profit in bits: 99.71
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 99.97
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 96.97
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 12.94 WIN
+Session Profit in bits: 97.36
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.94 WIN
+Session Profit in bits: 97.88
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 8.30 WIN
+Session Profit in bits: 98.53
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 3.66 WIN
+Session Profit in bits: 99.31
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 92.31
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.42 WIN
+Session Profit in bits: 93.22
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 2.99 WIN
+Session Profit in bits: 94.26
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 3.40 WIN
+Session Profit in bits: 95.43
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 2.97 WIN
+Session Profit in bits: 96.73
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 25.11 WIN
+Session Profit in bits: 98.16
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 4.53 WIN
+Session Profit in bits: 99.72
+Placed 13 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 101.41
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169571
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.47 WIN
+Session Profit in bits: 101.54
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169584
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 101.67
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169597
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 28.19 WIN
+Session Profit in bits: 101.80
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169610
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.99 WIN
+Session Profit in bits: 101.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169623
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 100.93
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169523
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 101.06
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169536
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.54 WIN
+Session Profit in bits: 101.19
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169549
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.65 WIN
+Session Profit in bits: 101.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169562
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.89 WIN
+Session Profit in bits: 101.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169575
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.07 LOST
+Session Profit in bits: 100.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169475
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 100.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169488
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.99 WIN
+Session Profit in bits: 100.71
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169501
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.17 WIN
+Session Profit in bits: 100.84
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169514
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.26 WIN
+Session Profit in bits: 100.97
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169527
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 101.10
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169540
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 101.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169553
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 101.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169566
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 100.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169466
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.43 WIN
+Session Profit in bits: 100.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169479
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 100.62
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169492
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.82 WIN
+Session Profit in bits: 100.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169505
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 100.88
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169518
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.39 WIN
+Session Profit in bits: 101.01
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169531
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.60 WIN
+Session Profit in bits: 101.14
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169544
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 12.50 WIN
+Session Profit in bits: 101.27
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169557
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.71 WIN
+Session Profit in bits: 101.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169570
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.13 WIN
+Session Profit in bits: 101.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169583
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.31 WIN
+Session Profit in bits: 101.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169596
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.75 WIN
+Session Profit in bits: 101.79
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169609
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 100.79
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169509
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.06 LOST
+Session Profit in bits: 99.79
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.46 WIN
+Session Profit in bits: 99.92
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 100.05
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169435
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.83 WIN
+Session Profit in bits: 100.18
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169448
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.00 LOST
+Session Profit in bits: 99.18
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.36 WIN
+Session Profit in bits: 99.31
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 1.10 LOST
+Session Profit in bits: 97.31
+Placed 2 bits on Multiplier: 1.13
+Game crashed at 2.22 WIN
+Session Profit in bits: 97.57
+Placed 3 bits on Multiplier: 1.13
+Game crashed at 3.63 WIN
+Session Profit in bits: 97.96
+Placed 4 bits on Multiplier: 1.13
+Game crashed at 1.36 WIN
+Session Profit in bits: 98.48
+Placed 5 bits on Multiplier: 1.13
+Game crashed at 6.16 WIN
+Session Profit in bits: 99.13
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 1.04 LOST
+Session Profit in bits: 93.13
+Placed 6 bits on Multiplier: 1.13
+Game crashed at 8.17 WIN
+Session Profit in bits: 93.91
+Placed 7 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 94.82
+Placed 8 bits on Multiplier: 1.13
+Game crashed at 44.55 WIN
+Session Profit in bits: 95.86
+Placed 9 bits on Multiplier: 1.13
+Game crashed at 1.57 WIN
+Session Profit in bits: 97.03
+Placed 10 bits on Multiplier: 1.13
+Game crashed at 11.69 WIN
+Session Profit in bits: 98.33
+Placed 11 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 99.76
+Placed 12 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 101.32
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169562
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.93 WIN
+Session Profit in bits: 101.45
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169575
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.96 WIN
+Session Profit in bits: 101.58
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169588
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.42 WIN
+Session Profit in bits: 101.71
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169601
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.62 WIN
+Session Profit in bits: 101.84
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169614
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.16 WIN
+Session Profit in bits: 101.97
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169627
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 20.96 WIN
+Session Profit in bits: 102.10
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169640
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.31 WIN
+Session Profit in bits: 102.23
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169653
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 102.36
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169666
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.34 WIN
+Session Profit in bits: 102.49
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169679
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 102.62
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169692
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.62 WIN
+Session Profit in bits: 102.75
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169705
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 102.88
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169718
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.93 WIN
+Session Profit in bits: 103.01
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169731
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.93 WIN
+Session Profit in bits: 103.14
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169744
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.84 WIN
+Session Profit in bits: 103.27
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169757
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 3.27 WIN
+Session Profit in bits: 103.40
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169770
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.70 WIN
+Session Profit in bits: 103.53
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169783
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.76 WIN
+Session Profit in bits: 103.66
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169796
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 60.66 WIN
+Session Profit in bits: 103.79
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169809
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.65 WIN
+Session Profit in bits: 103.92
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169822
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.31 WIN
+Session Profit in bits: 104.05
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169835
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 0.00 LOST
+Session Profit in bits: 103.05
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169735
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 95.93 WIN
+Session Profit in bits: 103.18
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169748
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 103.31
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169761
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.19 WIN
+Session Profit in bits: 103.44
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169774
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.20 WIN
+Session Profit in bits: 103.57
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169787
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.13 WIN
+Session Profit in bits: 103.70
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169800
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.44 WIN
+Session Profit in bits: 103.83
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169813
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.47 WIN
+Session Profit in bits: 103.96
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169826
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.08 LOST
+Session Profit in bits: 102.96
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169726
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.03 LOST
+Session Profit in bits: 101.96
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169626
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.46 WIN
+Session Profit in bits: 102.09
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169639
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.22 WIN
+Session Profit in bits: 102.22
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169652
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.90 WIN
+Session Profit in bits: 102.35
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169665
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.45 WIN
+Session Profit in bits: 102.48
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169678
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 60.54 WIN
+Session Profit in bits: 102.61
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169691
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.84 WIN
+Session Profit in bits: 102.74
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169704
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 61.50 WIN
+Session Profit in bits: 102.87
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169717
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.66 WIN
+Session Profit in bits: 103.00
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169730
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.79 WIN
+Session Profit in bits: 103.13
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169743
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 7.26 WIN
+Session Profit in bits: 103.26
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169756
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.21 WIN
+Session Profit in bits: 103.39
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169769
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.68 WIN
+Session Profit in bits: 103.52
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169782
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.36 WIN
+Session Profit in bits: 103.65
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169795
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.22 WIN
+Session Profit in bits: 103.78
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169808
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.27 WIN
+Session Profit in bits: 103.91
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169821
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.28 WIN
+Session Profit in bits: 104.04
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169834
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 27.57 WIN
+Session Profit in bits: 104.17
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169847
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.45 WIN
+Session Profit in bits: 104.30
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169860
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 13.67 WIN
+Session Profit in bits: 104.43
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169873
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.37 WIN
+Session Profit in bits: 104.56
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169886
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.75 WIN
+Session Profit in bits: 104.69
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169899
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.51 WIN
+Session Profit in bits: 104.82
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169912
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 9.88 WIN
+Session Profit in bits: 104.95
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169925
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.34 WIN
+Session Profit in bits: 105.08
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169938
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 105.21
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169951
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.70 WIN
+Session Profit in bits: 105.34
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169964
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.12 WIN
+Session Profit in bits: 105.47
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169977
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.82 WIN
+Session Profit in bits: 105.60
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 169990
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.24 WIN
+Session Profit in bits: 105.73
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170003
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.40 WIN
+Session Profit in bits: 105.86
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170016
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.63 WIN
+Session Profit in bits: 105.99
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170029
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.32 WIN
+Session Profit in bits: 106.12
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170042
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.52 WIN
+Session Profit in bits: 106.25
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170055
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 28.68 WIN
+Session Profit in bits: 106.38
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170068
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.16 WIN
+Session Profit in bits: 106.51
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170081
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.69 WIN
+Session Profit in bits: 106.64
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170094
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 43.01 WIN
+Session Profit in bits: 106.77
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170107
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 29.40 WIN
+Session Profit in bits: 106.90
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170120
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.48 WIN
+Session Profit in bits: 107.03
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170133
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 8.60 WIN
+Session Profit in bits: 107.16
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170146
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.62 WIN
+Session Profit in bits: 107.29
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170159
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 6.82 WIN
+Session Profit in bits: 107.42
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170172
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.02 LOST
+Session Profit in bits: 106.42
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170072
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.13 WIN
+Session Profit in bits: 106.55
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170085
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 5.24 WIN
+Session Profit in bits: 106.68
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170098
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.30 WIN
+Session Profit in bits: 106.81
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170111
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.03 WIN
+Session Profit in bits: 106.94
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170124
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 4.19 WIN
+Session Profit in bits: 107.07
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170137
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Disconnected from Web server | transport error | string
+Connected to WebServer
+Game crashed at 16.22 WIN
+Session Profit in bits: 107.20
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170150
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 2.57 WIN
+Session Profit in bits: 107.33
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170163
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 3.28 WIN
+Session Profit in bits: 107.46
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170176
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
+Game crashed at 1.15 WIN
+Session Profit in bits: 107.59
+transfering 100 to peacem4ker
+profit 0
+initialBalance 159430
+currentBalcne 170189
+highest-balance 0
+Placed 1 bits on Multiplier: 1.13
