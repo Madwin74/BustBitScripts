@@ -248,7 +248,7 @@ function MeroBot(){
 			
 			//reset
 			profit = 0;
-			initalBalance = currentBalance;
+			initialBalance = currentBalance;
 			highestBalance = 0;
 			console.log("profit " + profit);
 			console.log("initialBalance " + initialBalance);
